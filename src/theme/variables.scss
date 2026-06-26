@@ -1,2 +1,35 @@
-// For information on how to create your own theme, please refer to:
+// Marco Peluso — Portfolio theme
 // https://ionicframework.com/docs/theming/
+
+:root {
+  // Brand palette
+  --mp-bg: #0a0a0f;
+  --mp-bg-soft: #12121a;
+  --mp-surface: rgba(255, 255, 255, 0.04);
+  --mp-surface-border: rgba(255, 255, 255, 0.08);
+  --mp-text: #f4f4f7;
+  --mp-text-dim: #a0a0b0;
+  --mp-accent: #7c5cff;
+  --mp-accent-2: #18d6c4;
+  --mp-accent-3: #ff6b9d;
+  --mp-gradient: linear-gradient(120deg, #7c5cff 0%, #18d6c4 100%);
+  --mp-gradient-warm: linear-gradient(120deg, #ff6b9d 0%, #7c5cff 100%);
+
+  // Ionic core overrides
+  --ion-background-color: var(--mp-bg);
+  --ion-background-color-rgb: 10, 10, 15;
+  --ion-text-color: var(--mp-text);
+  --ion-text-color-rgb: 244, 244, 247;
+  --ion-font-family: 'Space Grotesk', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --ion-color-primary: #7c5cff;
+  --ion-color-primary-rgb: 124, 92, 255;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #6d51e0;
+  --ion-color-primary-tint: #896cff;
+
+  --ion-toolbar-background: rgba(10, 10, 15, 0.7);
+  --ion-toolbar-color: var(--mp-text);
+  --ion-item-background: transparent;
+}
