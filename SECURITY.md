@@ -6,10 +6,15 @@ Misure adottate per mantenere il sito il più solido possibile.
 
 - **Sito statico**: nessun backend, nessun database, nessun input utente lato server →
   superficie d'attacco ridotta al minimo.
-- **HTTPS** forzato da GitHub Pages + `upgrade-insecure-requests` nella CSP.
-- **Content Security Policy** restrittiva (`src/index.html`): script solo dal sito
-  stesso, niente `object`/embed, niente framing del sito (`frame-ancestors 'none'`,
-  anti-clickjacking).
+- **HTTPS** forzato da GitHub Pages.
+- **Referrer-Policy** `strict-origin-when-cross-origin` (via `<meta>`).
+- **Content Security Policy**: NON impostata via `<meta>` perché incompatibile con
+  l'ottimizzazione della CSS critica di Angular (rompe il caricamento degli stili). Va
+  applicata come **header HTTP** dall'hosting. Su GitHub Pages non è possibile impostare
+  header custom: per una CSP completa servirebbe un hosting con header configurabili
+  (es. Cloudflare Pages, Netlify) o un reverse proxy. Header consigliati:
+  `Content-Security-Policy`, `X-Content-Type-Options: nosniff`, `X-Frame-Options: DENY`,
+  `Strict-Transport-Security`.
 - **Sanitizzazione automatica**: il contenuto del blog è renderizzato tramite il
   sanitizer integrato di Angular (`[innerHTML]`), che neutralizza eventuale HTML/JS
   malevolo.
