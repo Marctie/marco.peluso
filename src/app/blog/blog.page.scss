@@ -1,0 +1,97 @@
+.blog-header ion-toolbar {
+  --background: rgba(10, 10, 15, 0.55);
+  --border-color: transparent;
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--mp-surface-border);
+}
+.brand {
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+.brand-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--mp-gradient);
+  display: inline-block;
+  margin-right: 8px;
+  box-shadow: 0 0 12px var(--mp-accent);
+}
+
+.blog-intro {
+  padding-bottom: 24px;
+}
+.lead {
+  color: var(--mp-text-dim);
+  font-size: 1.1rem;
+  line-height: 1.7;
+  max-width: 600px;
+}
+
+.posts {
+  padding-top: 12px;
+  display: grid;
+  gap: 18px;
+}
+
+.post-row {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 26px;
+  cursor: pointer;
+}
+.post-row-main {
+  flex: 1;
+}
+.post-date {
+  color: var(--mp-accent-2);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+.post-row-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin: 6px 0 8px;
+  line-height: 1.25;
+}
+.post-row-excerpt {
+  color: var(--mp-text-dim);
+  line-height: 1.6;
+  margin: 0 0 14px;
+}
+.project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.chip.small {
+  padding: 5px 12px;
+  font-size: 0.76rem;
+  border-radius: 99px;
+  background: var(--mp-surface);
+  border: 1px solid var(--mp-surface-border);
+  color: var(--mp-text-dim);
+}
+.post-arrow {
+  font-size: 1.4rem;
+  color: var(--mp-accent);
+  flex-shrink: 0;
+  transition: transform 0.2s;
+}
+.post-row:hover .post-arrow {
+  transform: translateX(4px);
+}
+
+.empty {
+  color: var(--mp-text-dim);
+  text-align: center;
+  padding: 40px 0;
+}
+
+@media (max-width: 600px) {
+  .post-arrow { display: none; }
+  .post-row-title { font-size: 1.2rem; }
+}

@@ -1,15 +1,20 @@
 {
-  "name": "app",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "name": "marco-peluso-portfolio",
+  "version": "0.1.0",
+  "author": "Marco Peluso",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "npm run blog:index && ng serve",
     "build": "ng build",
+    "prebuild": "npm run blog:index",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "lint": "ng lint"
+    "lint": "ng lint",
+    "blog:index": "node scripts/generate-blog-index.mjs",
+    "blog:new": "node scripts/new-post.mjs",
+    "android:add": "ionic capacitor add android",
+    "android:sync": "npm run build && ionic capacitor sync android",
+    "android:open": "ionic capacitor open android"
   },
   "private": true,
   "dependencies": {

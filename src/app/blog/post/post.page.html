@@ -1,0 +1,36 @@
+<ion-header [translucent]="true" class="post-header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-button [routerLink]="['/blog']" fill="clear">
+        <ion-icon name="arrow-back-outline" slot="start"></ion-icon> Blog
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ng-container *ngIf="post$ | async as post; else notFound">
+    <article class="section article">
+      <span class="post-date">{{ post.date | date: 'd MMMM yyyy' }} · {{ post.readingMinutes }} min di lettura</span>
+      <h1 class="article-title">{{ post.title }}</h1>
+      <div class="project-tags">
+        <span class="chip small" *ngFor="let t of post.tags">#{{ t }}</span>
+      </div>
+      <div class="article-body" [innerHTML]="post.html"></div>
+
+      <div class="article-footer">
+        <ion-button class="btn-ghost" fill="outline" [routerLink]="['/blog']">
+          <ion-icon name="albums-outline" slot="start"></ion-icon> Tutti gli articoli
+        </ion-button>
+      </div>
+    </article>
+  </ng-container>
+
+  <ng-template #notFound>
+    <div class="section empty">
+      <h2>Articolo non trovato 🤔</h2>
+      <p>Forse è stato spostato o non esiste ancora.</p>
+      <ion-button class="btn-primary" [routerLink]="['/blog']">Torna al blog</ion-button>
+    </div>
+  </ng-template>
+</ion-content>

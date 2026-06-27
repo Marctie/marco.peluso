@@ -1,0 +1,43 @@
+<ion-header [translucent]="true" class="blog-header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-button [routerLink]="['/home']" fill="clear">
+        <ion-icon name="arrow-back-outline" slot="start"></ion-icon> Home
+      </ion-button>
+    </ion-buttons>
+    <ion-title class="brand"><span class="brand-dot"></span>il <span class="gradient-text">blog</span></ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <section class="section blog-intro">
+    <span class="section-eyebrow">Tech blog</span>
+    <h1 class="section-title">Un articolo nuovo<br />ogni giorno.</h1>
+    <p class="lead">
+      Appunti, scoperte e riflessioni sul mondo della tecnologia. Aggiornato automaticamente
+      — torna domani e troverai qualcosa di nuovo. 🚀
+    </p>
+  </section>
+
+  <section class="section posts">
+    <ng-container *ngIf="posts$ | async as posts; else loading">
+      <article class="card post-row" *ngFor="let post of posts" [routerLink]="['/blog', post.slug]">
+        <div class="post-row-main">
+          <span class="post-date">{{ post.date | date: 'd MMMM yyyy' }} · {{ post.readingMinutes }} min</span>
+          <h2 class="post-row-title">{{ post.title }}</h2>
+          <p class="post-row-excerpt">{{ post.excerpt }}</p>
+          <div class="project-tags">
+            <span class="chip small" *ngFor="let t of post.tags">#{{ t }}</span>
+          </div>
+        </div>
+        <ion-icon name="arrow-forward-outline" class="post-arrow"></ion-icon>
+      </article>
+
+      <p class="empty" *ngIf="!posts.length">Ancora nessun articolo — il primo arriva prestissimo.</p>
+    </ng-container>
+
+    <ng-template #loading>
+      <p class="empty">Carico gli articoli…</p>
+    </ng-template>
+  </section>
+</ion-content>

@@ -1,20 +1,127 @@
-<ion-header [translucent]="true">
+<ion-header class="site-header" [translucent]="true">
   <ion-toolbar>
-    <ion-title>
-      Blank
+    <ion-title class="brand">
+      <span class="brand-dot"></span>marco<span class="gradient-text">.dev</span>
     </ion-title>
+    <ion-buttons slot="end" class="nav-links">
+      <ion-button href="#about">About</ion-button>
+      <ion-button href="#skills">Skills</ion-button>
+      <ion-button href="#projects">Progetti</ion-button>
+      <ion-button [routerLink]="['/blog']">Blog</ion-button>
+      <ion-button class="cta" href="#contact">Contatti</ion-button>
+    </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
+<ion-content [fullscreen]="true" scrollEvents="true">
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-bg"></div>
+    <div class="hero-inner">
+      <p class="hero-hello">👋 Ciao, sono</p>
+      <h1 class="hero-name">Marco Peluso</h1>
+      <h2 class="hero-role">
+        Costruisco <span class="gradient-text">esperienze digitali</span><br />
+        per il web e il mobile.
+      </h2>
+      <p class="hero-sub">
+        Developer 26enne appassionato di codice pulito, design e nuove tecnologie.
+        Trasformo idee in prodotti veloci, accessibili e belli da usare.
+      </p>
+      <div class="hero-actions">
+        <ion-button class="btn-primary" [routerLink]="['/blog']">
+          Leggi il blog <ion-icon name="arrow-forward-outline" slot="end"></ion-icon>
+        </ion-button>
+        <ion-button class="btn-ghost" fill="outline" href="#contact">Lavoriamo insieme</ion-button>
+      </div>
+      <div class="hero-socials">
+        <a href="https://github.com/" target="_blank" rel="noopener" aria-label="GitHub"><ion-icon name="logo-github"></ion-icon></a>
+        <a href="https://linkedin.com/" target="_blank" rel="noopener" aria-label="LinkedIn"><ion-icon name="logo-linkedin"></ion-icon></a>
+        <a href="mailto:marcopeluso99@gmail.com" aria-label="Email"><ion-icon name="mail-outline"></ion-icon></a>
+      </div>
+    </div>
+    <div class="scroll-hint"><ion-icon name="chevron-down-outline"></ion-icon></div>
+  </section>
 
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-  </div>
+  <!-- ABOUT -->
+  <section id="about" class="section">
+    <span class="section-eyebrow">Chi sono</span>
+    <h2 class="section-title">Un po' di me.</h2>
+    <div class="about-grid">
+      <p class="about-text">
+        Sono uno sviluppatore che ama dare forma alle idee. Mi muovo a mio agio tra
+        frontend, backend e mobile, con un occhio sempre attento all'esperienza utente.
+        Quando non scrivo codice, esploro nuove tecnologie e ne scrivo qui sul blog —
+        <strong>un articolo nuovo ogni giorno</strong>.
+      </p>
+      <div class="about-stats">
+        <div class="stat"><span class="stat-num gradient-text">5+</span><span class="stat-label">Anni di passione</span></div>
+        <div class="stat"><span class="stat-num gradient-text">∞</span><span class="stat-label">Voglia di imparare</span></div>
+        <div class="stat"><span class="stat-num gradient-text">365</span><span class="stat-label">Articoli/anno</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section id="skills" class="section">
+    <span class="section-eyebrow">Competenze</span>
+    <h2 class="section-title">Cosa so fare.</h2>
+    <div class="skills-grid">
+      <div class="skill" *ngFor="let s of skills">
+        <div class="skill-head">
+          <span>{{ s.name }}</span><span class="skill-pct">{{ s.level }}%</span>
+        </div>
+        <div class="skill-bar"><div class="skill-fill" [style.width.%]="s.level"></div></div>
+      </div>
+    </div>
+    <div class="stack-cloud">
+      <span class="chip" *ngFor="let t of stack">{{ t }}</span>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section id="projects" class="section">
+    <span class="section-eyebrow">Portfolio</span>
+    <h2 class="section-title">Progetti selezionati.</h2>
+    <div class="projects-grid">
+      <article class="card project" *ngFor="let p of projects">
+        <h3 class="project-title">{{ p.title }}</h3>
+        <p class="project-desc">{{ p.description }}</p>
+        <div class="project-tags">
+          <span class="chip small" *ngFor="let t of p.tags">{{ t }}</span>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- BLOG TEASER -->
+  <section class="section" *ngIf="latestPosts.length">
+    <span class="section-eyebrow">Dal blog</span>
+    <h2 class="section-title">Ultimi articoli.</h2>
+    <div class="projects-grid">
+      <article class="card project blog-teaser" *ngFor="let post of latestPosts" [routerLink]="['/blog', post.slug]">
+        <span class="post-date">{{ post.date | date: 'd MMM yyyy' }}</span>
+        <h3 class="project-title">{{ post.title }}</h3>
+        <p class="project-desc">{{ post.excerpt }}</p>
+        <span class="read-more">Leggi <ion-icon name="arrow-forward-outline"></ion-icon></span>
+      </article>
+    </div>
+    <div class="center"><ion-button fill="clear" class="btn-ghost" [routerLink]="['/blog']">Vedi tutti gli articoli</ion-button></div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact" class="section contact">
+    <div class="card contact-card">
+      <span class="section-eyebrow">Contatti</span>
+      <h2 class="section-title">Parliamone.</h2>
+      <p class="about-text">Hai un'idea, un progetto o solo voglia di scambiare due parole? Scrivimi.</p>
+      <ion-button class="btn-primary" href="mailto:marcopeluso99@gmail.com">
+        <ion-icon name="mail-outline" slot="start"></ion-icon> Scrivimi una mail
+      </ion-button>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>© {{ year }} Marco Peluso — Costruito con Ionic & Angular.</p>
+  </footer>
 </ion-content>
