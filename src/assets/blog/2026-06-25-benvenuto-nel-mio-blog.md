@@ -1,29 +1,27 @@
 ---
 title: Benvenuto nel mio blog
 date: 2026-06-25
-excerpt: Perché ho deciso di scrivere un articolo di tecnologia ogni singolo giorno — e cosa aspettarti.
-tags: [Meta, Tech]
+excerpt: Un articolo di tecnologia ogni giorno — recensioni, consigli, app utili e trucchi per i tuoi dispositivi.
+tags: [Tech, News]
 ---
 
-Ciao 👋 sono Marco. Se sei qui significa che hai trovato il mio angolo di internet, e ne sono felice.
+Ciao 👋 sono Marco. Se sei qui significa che hai trovato il mio angolo di internet dedicato alla **tecnologia di tutti i giorni**, e ne sono felice.
 
-Questo blog nasce con un'idea semplice ma ambiziosa: **pubblicare un articolo di tecnologia ogni giorno**. Non perché io voglia riempire la rete di altro rumore, ma perché scrivere è il modo migliore che conosco per capire davvero le cose.
+Questo blog nasce con un'idea semplice ma ambiziosa: **pubblicare un articolo ogni giorno** su tutto ciò che riguarda smartphone, tablet, app, videogiochi e gadget. Niente tecnicismi da addetti ai lavori: solo consigli pratici, spiegati come li racconterei a un amico.
 
 ## Di cosa parleremo
 
-Mi interessa tutto ciò che gira attorno al codice e all'innovazione:
-
-- **Sviluppo web e mobile** — framework, pattern, trucchi pratici
-- **Intelligenza artificiale** — strumenti, modelli e come stanno cambiando il nostro mestiere
-- **Developer experience** — tooling, automazione, produttività
-- **Riflessioni** — dove sta andando la tecnologia e cosa significa per noi
+- **Smartphone, tablet e iPad** — novità, confronti e come sfruttarli al meglio
+- **App utili** — le migliori da provare, con classifiche tipo "Top 5 per viaggiare" o "per studiare"
+- **Videogiochi** — uscite, recensioni e consigli per console e mobile
+- **Trucchi e tutorial** — piccole guide per fare di più con i tuoi dispositivi
+- **Aggiornamenti iOS e Android** — cosa cambia e come stare al passo
+- **Risoluzione problemi** — quando qualcosa non funziona, qui trovi la soluzione
 
 ## Perché ogni giorno
 
 > La costanza batte l'intensità.
 
-Un articolo al giorno è un esercizio di disciplina prima ancora che di scrittura. È il modo per restare curioso, aggiornato e onesto con me stesso.
-
-Questo sito, tra l'altro, è costruito con **Ionic e Angular** e funziona sia come web app sia come app Android. Anche questa è una piccola dimostrazione di quello di cui scrivo.
+Un articolo al giorno è il mio modo per restare curioso e aggiornato, e per darti sempre qualcosa di nuovo e utile da leggere con il caffè della mattina. ☕
 
 Buona lettura — e a domani con il prossimo articolo. 🚀

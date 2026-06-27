@@ -2,7 +2,7 @@
 
 Sito portfolio personale costruito con **Ionic + Angular**, pensato per girare sul
 **web** e per essere convertito in **app Android** tramite Capacitor. Include un
-**blog tech** con un articolo nuovo ogni giorno (scritto automaticamente).
+**blog di tecnologia** aggiornato ogni giorno.
 
 ## 🚀 Sviluppo
 
@@ -22,8 +22,7 @@ npm run blog:new "Titolo del nuovo articolo"   # crea un nuovo post
 npm run blog:index                              # rigenera l'indice
 ```
 
-L'automazione che scrive un articolo al giorno è descritta in
-[AUTOMAZIONE-BLOG.md](AUTOMAZIONE-BLOG.md).
+La linea editoriale del blog è descritta in [AUTOMAZIONE-BLOG.md](AUTOMAZIONE-BLOG.md).
 
 ## 📱 App Android
 
