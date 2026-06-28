@@ -149,7 +149,7 @@
     <span class="section-eyebrow">Dal blog</span>
     <h2 class="section-title">Ultimi articoli.</h2>
     <div class="projects-grid">
-      <article class="card project blog-teaser" *ngFor="let post of latestPosts" [routerLink]="['/blog', post.slug]">
+      <article class="card blog-teaser" *ngFor="let post of latestPosts" [routerLink]="['/blog', post.slug]">
         <span class="post-date">{{ post.date | date: 'd MMM yyyy' }}</span>
         <h3 class="project-title">{{ post.title }}</h3>
         <p class="project-desc">{{ post.excerpt }}</p>

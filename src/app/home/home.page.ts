@@ -80,6 +80,28 @@ export class HomePage {
       status: 'client',
     },
     {
+      title: 'App Paziente',
+      description: 'App mobile Flutter sviluppata per Pagine Mediche: prenotazioni, referti, storico clinico e comunicazione con i medici, tutto in un\'unica piattaforma per il paziente.',
+      tags: ['Flutter', 'Dart', 'Healthcare', 'Mobile'],
+      link: 'https://www.paginemediche.it',
+      icon: 'heart-outline',
+      gradient: 'linear-gradient(135deg, #0052a3 0%, #00b4d8 100%)',
+      image: 'https://media.paginemediche.it/site/images/logo-paginemediche.svg',
+      imageBg: 'linear-gradient(135deg, #002f5f 0%, #004a8f 100%)',
+      status: 'client',
+    },
+    {
+      title: 'App Medico',
+      description: 'App Flutter dedicata ai professionisti sanitari di Pagine Mediche: gestione appuntamenti, comunicazione con i pazienti e monitoraggio dell\'attività clinica.',
+      tags: ['Flutter', 'Dart', 'Healthcare', 'QA'],
+      link: 'https://www.paginemediche.it',
+      icon: 'medical-outline',
+      gradient: 'linear-gradient(135deg, #005f73 0%, #0a9396 100%)',
+      image: 'https://media.paginemediche.it/site/images/logo-paginemediche.svg',
+      imageBg: 'linear-gradient(135deg, #003d4d 0%, #005f73 100%)',
+      status: 'client',
+    },
+    {
       title: 'Dispensa Alimentare',
       description: 'Sai sempre cosa hai in frigo e in dispensa. Scansiona, aggiungi e scopri subito cosa puoi cucinare — zero sprechi, zero sorprese al supermercato.',
       tags: ['Ionic', 'Angular', 'Capacitor', 'Android'],
@@ -101,11 +123,23 @@ export class HomePage {
 
   readonly experiences: Experience[] = [
     {
-      period: 'Gen 2025 – Presente',
+      period: 'Set 2025 – Presente',
+      company: 'Intellitronika',
+      role: 'Sviluppatore Software',
+      location: 'Italia',
+      current: true,
+      highlights: [
+        'Sviluppo di applicazioni web e mobile per la Pubblica Amministrazione con Angular e Ionic.',
+        'Integrazione di comunicazioni real-time tramite LiveKit e SignalR in ambiente Ionic.',
+        'Implementazione di protocolli IoT con MQTT per la gestione di dispositivi connessi.',
+      ],
+    },
+    {
+      period: 'Gen 2025 – Ago 2025',
       company: 'Freelancer',
       role: 'Flutter Developer',
       location: 'Remote',
-      current: true,
+      current: false,
       highlights: [
         'Sviluppo UI Flutter per Aperitiv — app di prenotazione tavoli ed eventi food & beverage — seguendo mockup Figma con databinding avanzato.',
         'Implementazione gestione dinamica delle schermate e degli stati dell\'interfaccia con widget personalizzati e layout responsive.',
