@@ -12,6 +12,9 @@ interface Project {
   description: string;
   tags: string[];
   link?: string;
+  icon: string;
+  gradient: string;
+  status: 'live' | 'soon';
 }
 
 @Component({
@@ -35,19 +38,29 @@ export class HomePage {
 
   readonly projects: Project[] = [
     {
-      title: 'Questo portfolio',
-      description: 'Sito + app Android costruiti con Ionic/Angular, con un blog tech aggiornato automaticamente ogni giorno.',
+      title: 'marco.dev',
+      description: 'Portfolio personale + blog tech con un articolo nuovo ogni giorno. Costruito con Ionic e Angular, pubblicato su GitHub Pages e disponibile anche come app Android.',
       tags: ['Ionic', 'Angular', 'Capacitor', 'CI/CD'],
+      link: 'https://marctie.github.io/marco.peluso/',
+      icon: 'code-slash-outline',
+      gradient: 'linear-gradient(135deg, #7c5cff 0%, #18d6c4 100%)',
+      status: 'live',
     },
     {
-      title: 'Progetto in arrivo',
-      description: 'Sostituisci questo testo con uno dei tuoi lavori migliori. Aggiungi screenshot e link al repo.',
-      tags: ['Soon'],
+      title: 'Dispensa Alimentare',
+      description: 'Sai sempre cosa hai in frigo e in dispensa. Scansiona, aggiungi e scopri subito cosa puoi cucinare — zero sprechi, zero sorprese al supermercato.',
+      tags: ['Ionic', 'Angular', 'Capacitor', 'Android'],
+      icon: 'nutrition-outline',
+      gradient: 'linear-gradient(135deg, #11998e 0%, #38ef7d 100%)',
+      status: 'soon',
     },
     {
-      title: 'Progetto in arrivo',
-      description: 'Un altro spazio pronto per mostrare quello che sai fare.',
-      tags: ['Soon'],
+      title: 'FinanzAI',
+      description: 'Il tuo co-pilota finanziario. Analizza le spese, individua dove stai sprecando e ti guida verso i tuoi obiettivi economici con suggerimenti personalizzati.',
+      tags: ['AI', 'Angular', 'Finanza', 'Mobile'],
+      icon: 'trending-up-outline',
+      gradient: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+      status: 'soon',
     },
   ];
 

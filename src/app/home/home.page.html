@@ -84,11 +84,24 @@
     <span class="section-eyebrow">Portfolio</span>
     <h2 class="section-title">Progetti selezionati.</h2>
     <div class="projects-grid">
-      <article class="card project" *ngFor="let p of projects">
-        <h3 class="project-title">{{ p.title }}</h3>
-        <p class="project-desc">{{ p.description }}</p>
-        <div class="project-tags">
-          <span class="chip small" *ngFor="let t of p.tags">{{ t }}</span>
+      <article class="card project-card" *ngFor="let p of projects">
+        <div class="project-cover" [style.background]="p.gradient">
+          <ion-icon [name]="p.icon" class="project-icon"></ion-icon>
+          <span class="project-badge soon" *ngIf="p.status === 'soon'">In arrivo</span>
+          <span class="project-badge live" *ngIf="p.status === 'live'">Live</span>
+        </div>
+        <div class="project-body">
+          <h3 class="project-title">{{ p.title }}</h3>
+          <p class="project-desc">{{ p.description }}</p>
+          <div class="project-tags">
+            <span class="chip small" *ngFor="let t of p.tags">{{ t }}</span>
+          </div>
+          <a *ngIf="p.link" [href]="p.link" target="_blank" rel="noopener" class="project-link">
+            Visita il progetto <ion-icon name="arrow-forward-outline"></ion-icon>
+          </a>
+          <span *ngIf="!p.link" class="project-link coming-soon">
+            <ion-icon name="time-outline"></ion-icon> Prossimamente
+          </span>
         </div>
       </article>
     </div>
