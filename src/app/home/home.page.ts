@@ -41,7 +41,7 @@ export class HomePage {
 
   scrollTo(id: string) {
     const el = document.getElementById(id);
-    if (el) this.content.scrollToElement(el, 500);
+    if (el) this.content.scrollToPoint(0, el.offsetTop, 500);
   }
 
   readonly skills: Skill[] = [
