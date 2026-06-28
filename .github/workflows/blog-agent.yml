@@ -1,0 +1,46 @@
+name: Blog Agent — genera 3 articoli al giorno
+
+on:
+  schedule:
+    # Ogni giorno alle 07:00 ora italiana (05:00 UTC in estate, 06:00 in inverno)
+    - cron: '0 5 * * *'
+  workflow_dispatch:   # avvio manuale dal pannello GitHub Actions
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Genera articoli con Claude
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/generate-posts.mjs
+
+      - name: Rigenera manifest
+        run: node scripts/generate-blog-index.mjs
+
+      - name: Commit e push se ci sono nuovi articoli
+        run: |
+          git config user.name  "Marco Peluso Blog"
+          git config user.email "blog@marco-peluso.it"
+          git add src/assets/blog/
+          if git diff --cached --quiet; then
+            echo "Nessun articolo nuovo da committare."
+          else
+            TODAY=$(date +%Y-%m-%d)
+            git commit -m "Nuovi articoli del $TODAY"
+            git push
+          fi

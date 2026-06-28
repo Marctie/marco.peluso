@@ -1,14 +1,58 @@
 [
   {
+    "slug": "2026-06-28-come-fare-il-backup-del-telefono-nel-2026",
+    "title": "Come fare il backup del telefono nel 2026 (senza perdersi)",
+    "date": "2026-06-28",
+    "excerpt": "Cambiare telefono o perdere dati non fa più paura se hai un backup fatto bene — ecco come configurarlo una volta sola e dimenticartelo.",
+    "tags": ["Tutorial", "Smartphone", "iOS", "Android", "Consigli"],
+    "readingMinutes": 4
+  },
+  {
+    "slug": "2026-06-28-migliori-cuffie-wireless-sotto-100-euro",
+    "title": "Le migliori cuffie wireless sotto i 100 euro nel 2026",
+    "date": "2026-06-28",
+    "excerpt": "Non serve spendere 300 euro per avere cuffie wireless di qualità — ecco le mie 4 scelte preferite per ogni tipo di utilizzo.",
+    "tags": ["Accessori", "Audio", "Consigli"],
+    "readingMinutes": 3
+  },
+  {
+    "slug": "2026-06-28-ios-20-vs-android-16-le-novita-piu-interessanti",
+    "title": "iOS 20 vs Android 16 — le novità più interessanti",
+    "date": "2026-06-28",
+    "excerpt": "I due sistemi operativi si aggiornano e la gara si fa sempre più serrata. Ecco cosa cambia davvero nella vita di tutti i giorni.",
+    "tags": ["iOS", "Android", "Smartphone", "Aggiornamenti"],
+    "readingMinutes": 4
+  },
+  {
+    "slug": "2026-06-27-ipad-o-tablet-android-come-scegliere-nel-2026",
+    "title": "iPad o tablet Android: come scegliere nel 2026",
+    "date": "2026-06-27",
+    "excerpt": "Mi fanno spesso questa domanda e non c'è una risposta unica — dipende da cosa ci fai. Ecco la mia guida pratica senza fronzoli.",
+    "tags": ["iPad", "Tablet", "Android", "Consigli"],
+    "readingMinutes": 3
+  },
+  {
+    "slug": "2026-06-27-top-5-giochi-mobile-da-non-perdere-questa-estate",
+    "title": "Top 5 giochi mobile da non perdere questa estate",
+    "date": "2026-06-27",
+    "excerpt": "Cinque giochi per smartphone che mi hanno tenuto incollato allo schermo — perfetti per l'estate, dal casual al più impegnativo.",
+    "tags": ["Videogiochi", "App", "Smartphone"],
+    "readingMinutes": 3
+  },
+  {
+    "slug": "2026-06-27-come-salvare-la-batteria-dello-smartphone-in-estate",
+    "title": "Come salvare la batteria dello smartphone in estate",
+    "date": "2026-06-27",
+    "excerpt": "D'estate il telefono si scarica prima del solito — ecco tutti i trucchi che uso io per arrivare a sera con il 20% rimasto.",
+    "tags": ["Smartphone", "Consigli", "Android", "iOS"],
+    "readingMinutes": 4
+  },
+  {
     "slug": "2026-06-26-top-5-app-per-viaggiare",
     "title": "Top 5 app per viaggiare senza stress",
     "date": "2026-06-26",
     "excerpt": "Le cinque app che porto sempre con me in viaggio: voli, mappe offline, valigia e spese sotto controllo.",
-    "tags": [
-      "App",
-      "Viaggi",
-      "Smartphone"
-    ],
+    "tags": ["App", "Viaggi", "Smartphone"],
     "readingMinutes": 1
   },
   {
@@ -16,10 +60,7 @@
     "title": "Benvenuto nel mio blog",
     "date": "2026-06-25",
     "excerpt": "Un articolo di tecnologia ogni giorno — recensioni, consigli, app utili e trucchi per i tuoi dispositivi.",
-    "tags": [
-      "Tech",
-      "News"
-    ],
+    "tags": ["Tech", "News"],
     "readingMinutes": 1
   }
 ]
