@@ -5,6 +5,7 @@
     </ion-title>
     <ion-buttons slot="end" class="nav-links">
       <ion-button href="#about">About</ion-button>
+      <ion-button href="#experience">Esperienza</ion-button>
       <ion-button href="#skills">Skills</ion-button>
       <ion-button href="#projects">Progetti</ion-button>
       <ion-button [routerLink]="['/blog']">Blog</ion-button>
@@ -48,16 +49,50 @@
     <span class="section-eyebrow">Chi sono</span>
     <h2 class="section-title">Un po' di me.</h2>
     <div class="about-grid">
-      <p class="about-text">
-        Sono uno sviluppatore che ama dare forma alle idee. Mi muovo a mio agio tra
-        frontend, backend e mobile, con un occhio sempre attento all'esperienza utente.
-        Quando non scrivo codice, esploro nuove tecnologie e ne scrivo qui sul blog —
-        <strong>un articolo nuovo ogni giorno</strong>.
-      </p>
+      <div>
+        <p class="about-text">
+          Sono Marco, 26 anni, sviluppatore mobile e web con un percorso che va dall'IT
+          management al QA fino allo sviluppo con <strong>Flutter</strong> e <strong>Angular</strong>.
+          Ho una laurea in <strong>Ingegneria Informatica (L-08)</strong> e sto completando
+          la magistrale in <strong>Sicurezza Informatica (LM-66)</strong>.
+        </p>
+        <p class="about-text" style="margin-top: 16px">
+          Curo sempre la qualità del codice e l'esperienza utente — che si tratti di un'app mobile,
+          una piattaforma web o un ciclo di testing. Quando non scrivo codice, esploro nuove
+          tecnologie e <strong>ne scrivo ogni giorno su questo blog</strong>.
+        </p>
+      </div>
       <div class="about-stats">
-        <div class="stat"><span class="stat-num gradient-text">5+</span><span class="stat-label">Anni di passione</span></div>
-        <div class="stat"><span class="stat-num gradient-text">∞</span><span class="stat-label">Voglia di imparare</span></div>
-        <div class="stat"><span class="stat-num gradient-text">365</span><span class="stat-label">Articoli/anno</span></div>
+        <div class="stat"><span class="stat-num gradient-text">6+</span><span class="stat-label">Anni nel settore</span></div>
+        <div class="stat"><span class="stat-num gradient-text">4</span><span class="stat-label">Esperienze lavorative</span></div>
+        <div class="stat"><span class="stat-num gradient-text">2</span><span class="stat-label">Lauree</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- EXPERIENCE -->
+  <section id="experience" class="section">
+    <span class="section-eyebrow">Carriera</span>
+    <h2 class="section-title">Esperienza lavorativa.</h2>
+    <div class="timeline">
+      <div class="timeline-item" *ngFor="let e of experiences">
+        <div class="timeline-dot" [class.current]="e.current"></div>
+        <div class="timeline-content card">
+          <div class="timeline-header">
+            <div>
+              <span class="timeline-period">{{ e.period }}</span>
+              <h3 class="timeline-company">{{ e.company }}</h3>
+            </div>
+            <div class="timeline-right">
+              <span class="timeline-role">{{ e.role }}</span>
+              <span class="timeline-location"><ion-icon name="location-outline"></ion-icon> {{ e.location }}</span>
+            </div>
+          </div>
+          <ul class="timeline-points">
+            <li *ngFor="let h of e.highlights">{{ h }}</li>
+          </ul>
+          <span class="timeline-badge" *ngIf="e.current">Attuale</span>
+        </div>
       </div>
     </div>
   </section>
@@ -85,10 +120,12 @@
     <h2 class="section-title">Progetti selezionati.</h2>
     <div class="projects-grid">
       <article class="card project-card" *ngFor="let p of projects">
-        <div class="project-cover" [style.background]="p.gradient">
-          <ion-icon [name]="p.icon" class="project-icon"></ion-icon>
+        <div class="project-cover" [style.background]="p.image ? p.imageBg : p.gradient">
+          <img *ngIf="p.image" [src]="p.image" [alt]="p.title + ' logo'" class="project-logo-img">
+          <ion-icon *ngIf="!p.image" [name]="p.icon" class="project-icon"></ion-icon>
           <span class="project-badge soon" *ngIf="p.status === 'soon'">In arrivo</span>
           <span class="project-badge live" *ngIf="p.status === 'live'">Live</span>
+          <span class="project-badge client" *ngIf="p.status === 'client'">Cliente</span>
         </div>
         <div class="project-body">
           <h3 class="project-title">{{ p.title }}</h3>
