@@ -5,7 +5,9 @@
     "date": "2026-06-28",
     "excerpt": "Hai appena ricevuto un tablet Android e non sai da dove iniziare? Nessun problema — ti spiego tutto passo dopo passo, con parole semplici.",
     "tags": ["Android", "Tablet", "Tutorial", "Guida"],
-    "readingMinutes": 4
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=come+configurare+tablet+android+prima+volta+tutorial+italiano"
   },
   {
     "slug": "2026-06-28-come-fare-il-backup-del-telefono-nel-2026",
@@ -13,7 +15,9 @@
     "date": "2026-06-28",
     "excerpt": "Cambiare telefono o perdere dati non fa più paura se hai un backup fatto bene — ecco come configurarlo una volta sola e dimenticartelo.",
     "tags": ["Tutorial", "Smartphone", "iOS", "Android", "Consigli"],
-    "readingMinutes": 4
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=come+fare+backup+smartphone+iphone+android+tutorial+italiano"
   },
   {
     "slug": "2026-06-28-migliori-cuffie-wireless-sotto-100-euro",
@@ -21,7 +25,9 @@
     "date": "2026-06-28",
     "excerpt": "Non serve spendere 300 euro per avere cuffie wireless di qualità — ecco le mie 4 scelte preferite per ogni tipo di utilizzo.",
     "tags": ["Accessori", "Audio", "Consigli"],
-    "readingMinutes": 3
+    "readingMinutes": 3,
+    "cover": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+cuffie+wireless+economiche+meno+100+euro+recensione"
   },
   {
     "slug": "2026-06-28-ios-20-vs-android-16-le-novita-piu-interessanti",
@@ -29,7 +35,9 @@
     "date": "2026-06-28",
     "excerpt": "I due sistemi operativi si aggiornano e la gara si fa sempre più serrata. Ecco cosa cambia davvero nella vita di tutti i giorni.",
     "tags": ["iOS", "Android", "Smartphone", "Aggiornamenti"],
-    "readingMinutes": 4
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=ios+vs+android+confronto+novita+italiano"
   },
   {
     "slug": "2026-06-27-ipad-o-tablet-android-come-scegliere-nel-2026",
@@ -37,7 +45,9 @@
     "date": "2026-06-27",
     "excerpt": "Mi fanno spesso questa domanda e non c'è una risposta unica — dipende da cosa ci fai. Ecco la mia guida pratica senza fronzoli.",
     "tags": ["iPad", "Tablet", "Android", "Consigli"],
-    "readingMinutes": 3
+    "readingMinutes": 3,
+    "cover": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=ipad+vs+tablet+android+quale+comprare+italiano"
   },
   {
     "slug": "2026-06-27-top-5-giochi-mobile-da-non-perdere-questa-estate",
@@ -45,7 +55,9 @@
     "date": "2026-06-27",
     "excerpt": "Cinque giochi per smartphone che mi hanno tenuto incollato allo schermo — perfetti per l'estate, dal casual al più impegnativo.",
     "tags": ["Videogiochi", "App", "Smartphone"],
-    "readingMinutes": 3
+    "readingMinutes": 3,
+    "cover": "https://images.unsplash.com/photo-1535223289429-462ea9301402?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+giochi+mobile+gratis+estate+android+ios"
   },
   {
     "slug": "2026-06-27-come-salvare-la-batteria-dello-smartphone-in-estate",
@@ -53,7 +65,9 @@
     "date": "2026-06-27",
     "excerpt": "D'estate il telefono si scarica prima del solito — ecco tutti i trucchi che uso io per arrivare a sera con il 20% rimasto.",
     "tags": ["Smartphone", "Consigli", "Android", "iOS"],
-    "readingMinutes": 4
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=come+risparmiare+batteria+smartphone+android+ios+estate"
   },
   {
     "slug": "2026-06-26-top-5-app-per-viaggiare",
@@ -61,7 +75,9 @@
     "date": "2026-06-26",
     "excerpt": "Le cinque app che porto sempre con me in viaggio: voli, mappe offline, valigia e spese sotto controllo.",
     "tags": ["App", "Viaggi", "Smartphone"],
-    "readingMinutes": 1
+    "readingMinutes": 1,
+    "cover": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+app+viaggio+smartphone+italiano"
   },
   {
     "slug": "2026-06-25-benvenuto-nel-mio-blog",
@@ -69,6 +85,7 @@
     "date": "2026-06-25",
     "excerpt": "Un articolo di tecnologia ogni giorno — recensioni, consigli, app utili e trucchi per i tuoi dispositivi.",
     "tags": ["Tech", "News"],
-    "readingMinutes": 1
+    "readingMinutes": 1,
+    "cover": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=80&auto=format&fit=crop"
   }
 ]

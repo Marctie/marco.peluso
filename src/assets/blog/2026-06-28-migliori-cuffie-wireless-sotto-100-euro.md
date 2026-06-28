@@ -3,6 +3,8 @@ title: Le migliori cuffie wireless sotto i 100 euro nel 2026
 date: 2026-06-28
 excerpt: Non serve spendere 300 euro per avere cuffie wireless di qualità — ecco le mie 4 scelte preferite per ogni tipo di utilizzo.
 tags: [Accessori, Audio, Consigli]
+cover: https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1200&q=80&auto=format&fit=crop
+youtube: https://www.youtube.com/results?search_query=migliori+cuffie+wireless+economiche+meno+100+euro+recensione
 ---
 
 Uno dei miei acquisti tech preferiti degli ultimi anni sono le cuffie wireless. Ma il mercato è pieno di opzioni e orientarsi non è semplice — soprattutto quando non vuoi spendere una fortuna. Ho testato parecchi modelli nel tempo e ho selezionato quelli che secondo me offrono il miglior rapporto qualità/prezzo sotto i 100 euro.

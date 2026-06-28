@@ -55,14 +55,17 @@ for (const file of files) {
     console.warn(`⚠️  Skipping ${file}: missing title/date in frontmatter`);
     continue;
   }
-  posts.push({
+  const entry = {
     slug,
     title: meta.title,
     date: meta.date,
     excerpt: meta.excerpt || body.trim().slice(0, 160).replace(/\n/g, ' ') + '…',
     tags: Array.isArray(meta.tags) ? meta.tags : meta.tags ? [meta.tags] : [],
     readingMinutes: readingMinutes(body),
-  });
+  };
+  if (meta.cover)   entry.cover   = meta.cover;
+  if (meta.youtube) entry.youtube = meta.youtube;
+  posts.push(entry);
 }
 
 posts.sort((a, b) => b.date.localeCompare(a.date));

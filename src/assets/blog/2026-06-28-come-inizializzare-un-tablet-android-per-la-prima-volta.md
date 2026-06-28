@@ -3,6 +3,8 @@ title: Come inizializzare un tablet Android per la prima volta (guida per tutti)
 date: 2026-06-28
 excerpt: Hai appena ricevuto un tablet Android e non sai da dove iniziare? Nessun problema — ti spiego tutto passo dopo passo, con parole semplici.
 tags: [Android, Tablet, Tutorial, Guida]
+cover: https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=1200&q=80&auto=format&fit=crop
+youtube: https://www.youtube.com/results?search_query=come+configurare+tablet+android+prima+volta+tutorial+italiano
 ---
 
 Hai un tablet Android nuovo tra le mani e non sai bene cosa fare? Nessun problema, capita a tutti. Seguendo questa guida passo dopo passo riuscirai ad accenderlo, configurarlo e usarlo senza nessuna difficoltà — anche se è la prima volta che ci hai a che fare.

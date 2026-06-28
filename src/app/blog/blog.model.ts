@@ -5,6 +5,8 @@ export interface PostMeta {
   excerpt: string;
   tags: string[];
   readingMinutes: number;
+  cover?: string;
+  youtube?: string;
 }
 
 export interface Post extends PostMeta {

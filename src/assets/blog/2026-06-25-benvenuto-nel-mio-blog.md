@@ -3,6 +3,7 @@ title: Benvenuto nel mio blog
 date: 2026-06-25
 excerpt: Un articolo di tecnologia ogni giorno — recensioni, consigli, app utili e trucchi per i tuoi dispositivi.
 tags: [Tech, News]
+cover: https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=80&auto=format&fit=crop
 ---
 
 Ciao 👋 sono Marco. Se sei qui significa che hai trovato il mio angolo di internet dedicato alla **tecnologia di tutti i giorni**, e ne sono felice.

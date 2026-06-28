@@ -3,6 +3,8 @@ title: Top 5 giochi mobile da non perdere questa estate
 date: 2026-06-27
 excerpt: Cinque giochi per smartphone che mi hanno tenuto incollato allo schermo — perfetti per l'estate, dal casual al più impegnativo.
 tags: [Videogiochi, App, Smartphone]
+cover: https://images.unsplash.com/photo-1535223289429-462ea9301402?w=1200&q=80&auto=format&fit=crop
+youtube: https://www.youtube.com/results?search_query=migliori+giochi+mobile+gratis+estate+2025
 ---
 
 L'estate è il momento perfetto per recuperare quei giochi che durante l'anno non ho mai trovato il tempo di provare. Quest'anno me ne sono passati per le mani davvero tanti, e ho selezionato i cinque che secondo me meritano di stare sul telefono di chiunque ami i videogiochi anche solo un po'.

@@ -3,6 +3,8 @@ title: Come fare il backup del telefono nel 2026 (senza perdersi)
 date: 2026-06-28
 excerpt: Cambiare telefono o perdere dati non fa più paura se hai un backup fatto bene — ecco come configurarlo una volta sola e dimenticartelo.
 tags: [Tutorial, Smartphone, iOS, Android, Consigli]
+cover: https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200&q=80&auto=format&fit=crop
+youtube: https://www.youtube.com/results?search_query=come+fare+backup+smartphone+iphone+android+tutorial+italiano
 ---
 
 Una delle cose che mi fanno venire i brividi è quando qualcuno mi dice "ho perso tutte le foto perché il telefono si è rotto e non avevo mai fatto il backup." Nel 2026 non dovrebbe succedere a nessuno — gli strumenti per fare backup automatici sono gratuiti, semplici e funzionano da soli una volta configurati.

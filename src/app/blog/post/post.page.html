@@ -10,18 +10,34 @@
 
 <ion-content [fullscreen]="true">
   <ng-container *ngIf="post$ | async as post; else notFound">
-    <article class="section article">
-      <span class="post-date">{{ post.date | date: 'd MMMM yyyy' }} · {{ post.readingMinutes }} min di lettura</span>
-      <h1 class="article-title">{{ post.title }}</h1>
-      <div class="project-tags">
-        <span class="chip small" *ngFor="let t of post.tags">#{{ t }}</span>
+    <article class="article">
+      <div class="article-cover" *ngIf="post.cover">
+        <img [src]="post.cover" [alt]="post.title" loading="lazy">
       </div>
-      <div class="article-body" [innerHTML]="post.html"></div>
 
-      <div class="article-footer">
-        <ion-button class="btn-ghost" fill="outline" [routerLink]="['/blog']">
-          <ion-icon name="albums-outline" slot="start"></ion-icon> Tutti gli articoli
-        </ion-button>
+      <div class="section article-content">
+        <span class="post-date">{{ post.date | date: 'd MMMM yyyy' }} · {{ post.readingMinutes }} min di lettura</span>
+        <h1 class="article-title">{{ post.title }}</h1>
+        <div class="project-tags">
+          <span class="chip small" *ngFor="let t of post.tags">#{{ t }}</span>
+        </div>
+        <div class="article-body" [innerHTML]="post.html"></div>
+
+        <a *ngIf="post.youtube" [href]="post.youtube" target="_blank" rel="noopener" class="youtube-card">
+          <div class="yt-icon-wrap">
+            <ion-icon name="logo-youtube" class="yt-icon"></ion-icon>
+          </div>
+          <div class="yt-text">
+            <span class="yt-label">Video correlato</span>
+            <span class="yt-cta">Cerca su YouTube <ion-icon name="arrow-forward-outline"></ion-icon></span>
+          </div>
+        </a>
+
+        <div class="article-footer">
+          <ion-button class="btn-ghost" fill="outline" [routerLink]="['/blog']">
+            <ion-icon name="albums-outline" slot="start"></ion-icon> Tutti gli articoli
+          </ion-button>
+        </div>
       </div>
     </article>
   </ng-container>

@@ -3,6 +3,8 @@ title: Top 5 app per viaggiare senza stress
 date: 2026-06-26
 excerpt: Le cinque app che porto sempre con me in viaggio: voli, mappe offline, valigia e spese sotto controllo.
 tags: [App, Viaggi, Smartphone]
+cover: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&q=80&auto=format&fit=crop
+youtube: https://www.youtube.com/results?search_query=migliori+app+viaggio+smartphone+italiano
 ---
 
 L'estate è dietro l'angolo e con lei la voglia di partire. Negli anni ho provato decine di app da viaggio e ho fatto una bella scrematura: queste **cinque** sono quelle che non tolgo mai dal telefono.

@@ -76,17 +76,19 @@ export class HomePage {
       title: 'Dispensa Alimentare',
       description: 'Sai sempre cosa hai in frigo e in dispensa. Scansiona, aggiungi e scopri subito cosa puoi cucinare — zero sprechi, zero sorprese al supermercato.',
       tags: ['Ionic', 'Angular', 'Capacitor', 'Android'],
+      link: 'https://marctie.github.io/Dispence/home',
       icon: 'nutrition-outline',
       gradient: 'linear-gradient(135deg, #11998e 0%, #38ef7d 100%)',
-      status: 'soon',
+      status: 'live',
     },
     {
       title: 'FinanzAI',
       description: 'Il tuo co-pilota finanziario. Analizza le spese, individua dove stai sprecando e ti guida verso i tuoi obiettivi economici con suggerimenti personalizzati.',
       tags: ['AI', 'Angular', 'Finanza', 'Mobile'],
+      link: 'https://marctie.github.io/FinanzAi/home',
       icon: 'trending-up-outline',
       gradient: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-      status: 'soon',
+      status: 'live',
     },
   ];
 

@@ -3,6 +3,8 @@ title: Come salvare la batteria dello smartphone in estate
 date: 2026-06-27
 excerpt: D'estate il telefono si scarica prima del solito — ecco tutti i trucchi che uso io per arrivare a sera con il 20% rimasto.
 tags: [Smartphone, Consigli, Android, iOS]
+cover: https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200&q=80&auto=format&fit=crop
+youtube: https://www.youtube.com/results?search_query=come+risparmiare+batteria+smartphone+estate+android+ios
 ---
 
 Non so voi, ma ogni estate mi ritrovo con lo stesso problema: il telefono che muore nel momento peggiore. Al mare, in giro per la città sotto al sole, in viaggio — la batteria si esaurisce prima del solito e un power bank non ho sempre voglia di portarmelo dietro.
