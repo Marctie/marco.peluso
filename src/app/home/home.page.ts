@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild } from '@angular/core';
+import { IonContent } from '@ionic/angular';
 import { PostMeta } from '../blog/blog.model';
 import { BlogService } from '../services/blog.service';
 
@@ -35,7 +36,13 @@ interface Experience {
   standalone: false,
 })
 export class HomePage {
+  @ViewChild(IonContent, { static: false }) content!: IonContent;
   readonly year = new Date().getFullYear();
+
+  scrollTo(id: string) {
+    const el = document.getElementById(id);
+    if (el) this.content.scrollToElement(el, 500);
+  }
 
   readonly skills: Skill[] = [
     { name: 'Flutter / Dart', level: 85 },
