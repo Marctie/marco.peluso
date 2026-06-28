@@ -84,6 +84,7 @@
               <h3 class="timeline-company">{{ e.company }}</h3>
             </div>
             <div class="timeline-right">
+              <span class="timeline-badge" *ngIf="e.current">Attuale</span>
               <span class="timeline-role">{{ e.role }}</span>
               <span class="timeline-location"><ion-icon name="location-outline"></ion-icon> {{ e.location }}</span>
             </div>
@@ -91,7 +92,6 @@
           <ul class="timeline-points">
             <li *ngFor="let h of e.highlights">{{ h }}</li>
           </ul>
-          <span class="timeline-badge" *ngIf="e.current">Attuale</span>
         </div>
       </div>
     </div>
