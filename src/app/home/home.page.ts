@@ -102,6 +102,16 @@ export class HomePage {
       status: 'client',
     },
     {
+      title: 'My Nails Professional',
+      description: 'E-commerce WordPress + WooCommerce per la vendita di prodotti professionali per nail art e ricostruzione unghie. Gestione catalogo, pagamenti e spedizioni integrati.',
+      tags: ['WordPress', 'WooCommerce', 'PHP', 'E-commerce'],
+      link: 'https://www.mynailsprofessional.it',
+      icon: 'storefront-outline',
+      gradient: 'linear-gradient(135deg, #c94b8a 0%, #f7a8c4 100%)',
+      imageBg: 'linear-gradient(135deg, #7b1a4b 0%, #c94b8a 100%)',
+      status: 'live',
+    },
+    {
       title: 'Dispensa Alimentare',
       description: 'Sai sempre cosa hai in frigo e in dispensa. Scansiona, aggiungi e scopri subito cosa puoi cucinare — zero sprechi, zero sorprese al supermercato.',
       tags: ['Ionic', 'Angular', 'Capacitor', 'Android'],
