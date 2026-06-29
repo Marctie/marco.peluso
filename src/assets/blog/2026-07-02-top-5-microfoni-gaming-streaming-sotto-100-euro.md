@@ -1,6 +1,6 @@
 ---
 title: Top 5 microfoni da gaming e streaming sotto i 100€ nel 2026
-date: 2026-07-02
+date: 2026-06-29
 excerpt: L'audio è più importante del video su Twitch — e non serve spendere 200 euro per avere un microfono professionale. Ecco i 5 migliori sotto i 100 euro.
 tags: [Streaming, Gaming, Microfono, Twitch, Consigli, Amazon]
 cover: https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=1200&q=80&auto=format&fit=crop

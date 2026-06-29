@@ -1,6 +1,6 @@
 ---
 title: Come liberare spazio su Windows 11 in 10 minuti (senza programmi extra)
-date: 2026-07-01
+date: 2026-06-29
 excerpt: L'SSD è pieno e il PC rallenta? Ecco come liberare gigabyte di spazio su Windows 11 usando solo gli strumenti già integrati nel sistema — nessun programma da installare.
 tags: [Windows, PC, Tutorial, Consigli, Ottimizzazione]
 cover: https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&q=80&auto=format&fit=crop

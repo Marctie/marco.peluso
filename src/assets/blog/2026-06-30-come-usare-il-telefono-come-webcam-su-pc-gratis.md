@@ -1,6 +1,6 @@
 ---
 title: Come usare il telefono come webcam su PC (gratis, senza app a pagamento)
-date: 2026-06-30
+date: 2026-06-29
 excerpt: La tua webcam fa schifo o non ce l'hai? Il telefono che hai in tasca ha una fotocamera migliore — ecco come usarla come webcam su PC in meno di 5 minuti.
 tags: [Smartphone, PC, Streaming, Tutorial, Consigli, Webcam]
 cover: https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&q=80&auto=format&fit=crop

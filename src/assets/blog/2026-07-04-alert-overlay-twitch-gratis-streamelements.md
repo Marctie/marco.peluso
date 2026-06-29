@@ -1,6 +1,6 @@
 ---
 title: Alert e overlay Twitch gratis con StreamElements — guida completa
-date: 2026-07-04
+date: 2026-06-29
 excerpt: StreamElements è la piattaforma gratuita più usata dagli streamer per alert, overlay, chatbot e punti canale. Ecco come configurarlo da zero in 20 minuti.
 tags: [Streaming, Twitch, StreamElements, OBS, Tutorial, Gratis]
 cover: https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80&auto=format&fit=crop

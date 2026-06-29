@@ -1,6 +1,6 @@
 ---
 title: Come velocizzare il PC senza spendere un euro
-date: 2026-07-04
+date: 2026-06-29
 excerpt: Il PC è lento? Prima di comprare RAM o SSD nuovo, prova questi interventi gratuiti — spesso bastano per recuperare anni di prestazioni senza toccare l'hardware.
 tags: [Windows, PC, Tutorial, Ottimizzazione, Consigli, Gratis]
 cover: https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&q=80&auto=format&fit=crop

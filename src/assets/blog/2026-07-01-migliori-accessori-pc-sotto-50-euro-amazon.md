@@ -1,6 +1,6 @@
 ---
 title: I migliori accessori PC sotto i 50€ su Amazon (che uso ogni giorno)
-date: 2026-07-01
+date: 2026-06-29
 excerpt: Non serve spendere centinaia di euro per migliorare la postazione — ecco gli accessori PC più utili sotto i 50 euro che uso davvero tutti i giorni.
 tags: [PC, Accessori, Consigli, Amazon, Postazione]
 cover: https://images.unsplash.com/photo-1593640408182-31c228786d56?w=1200&q=80&auto=format&fit=crop

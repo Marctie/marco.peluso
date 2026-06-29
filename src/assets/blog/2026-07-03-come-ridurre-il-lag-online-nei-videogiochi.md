@@ -1,6 +1,6 @@
 ---
 title: Come ridurre il lag online nei videogiochi — guida pratica 2026
-date: 2026-07-03
+date: 2026-06-29
 excerpt: Ping alto, pacchetti persi, rubber banding — il lag nei giochi online ha cause ben precise e soluzioni concrete. Ecco cosa fare davvero.
 tags: [Gaming, Rete, PC, Tutorial, Consigli, Ottimizzazione]
 cover: https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=1200&q=80&auto=format&fit=crop

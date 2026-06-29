@@ -1,6 +1,6 @@
 ---
 title: Steam Deck nel 2026 — vale ancora la pena comprarlo?
-date: 2026-07-02
+date: 2026-06-29
 excerpt: Steam Deck è uscito nel 2022 ma è ancora rilevante nel 2026? Con l'OLED e la concorrenza di ROG Ally e Legion Go, ha ancora senso comprarlo oggi?
 tags: [Gaming, Steam, Steam Deck, PC, Consigli, Videogiochi]
 cover: https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=1200&q=80&auto=format&fit=crop

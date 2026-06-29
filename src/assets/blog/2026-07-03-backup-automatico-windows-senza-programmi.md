@@ -1,6 +1,6 @@
 ---
 title: Come fare backup automatico di Windows senza installare nulla
-date: 2026-07-03
+date: 2026-06-29
 excerpt: Windows 11 ha già tutto il necessario per fare backup completi e automatici — senza spendere un euro e senza programmi di terze parti. Ecco come configurarlo in 10 minuti.
 tags: [Windows, PC, Tutorial, Backup, Consigli]
 cover: https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&q=80&auto=format&fit=crop

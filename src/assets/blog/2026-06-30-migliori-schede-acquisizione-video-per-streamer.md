@@ -1,6 +1,6 @@
 ---
 title: Le migliori schede di acquisizione video per streamer nel 2026
-date: 2026-06-30
+date: 2026-06-29
 excerpt: Vuoi streamare console su PC, registrare gameplay in qualità professionale o fare dual-PC streaming? Ecco le schede di acquisizione che vale la pena comprare.
 tags: [Streaming, Gaming, Scheda di acquisizione, Twitch, YouTube, Consigli]
 cover: https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80&auto=format&fit=crop

@@ -1,6 +1,6 @@
 ---
 title: Top 5 ventilatori economici per l'estate 2026 (sotto i 60€)
-date: 2026-06-30
+date: 2026-06-29
 excerpt: Non vuoi spendere 400 euro per un climatizzatore? Un buon ventilatore fa la differenza — ecco i 5 migliori sotto i 60 euro per sopravvivere all'estate.
 tags: [Estate, Casa, Ventilatore, Consigli, Amazon]
 cover: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80&auto=format&fit=crop

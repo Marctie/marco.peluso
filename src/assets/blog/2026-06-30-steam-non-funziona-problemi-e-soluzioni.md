@@ -1,6 +1,6 @@
 ---
 title: Steam non funziona? I 5 problemi più comuni e come risolverli
-date: 2026-06-30
+date: 2026-06-29
 excerpt: Steam che non si apre, giochi che crashano, aggiornamenti bloccati — ecco le soluzioni che funzionano davvero per i problemi più frequenti del client Valve.
 tags: [Gaming, Steam, PC, Troubleshooting, Windows]
 cover: https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=1200&q=80&auto=format&fit=crop

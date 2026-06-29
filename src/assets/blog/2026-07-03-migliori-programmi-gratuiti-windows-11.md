@@ -1,6 +1,6 @@
 ---
 title: I migliori programmi gratuiti da installare subito su Windows 11
-date: 2026-07-03
+date: 2026-06-29
 excerpt: Hai un PC nuovo o hai reinstallato Windows? Ecco la lista definitiva dei programmi gratuiti che installo sempre per prima cosa — e il perché di ognuno.
 tags: [Windows, PC, Software, Gratis, Consigli, Tutorial]
 cover: https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&q=80&auto=format&fit=crop

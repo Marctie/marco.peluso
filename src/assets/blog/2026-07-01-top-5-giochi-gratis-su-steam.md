@@ -1,6 +1,6 @@
 ---
 title: Top 5 giochi gratis su Steam da scaricare subito
-date: 2026-07-01
+date: 2026-06-29
 excerpt: Steam ha centinaia di giochi gratuiti — ma qual è la pena vale davvero? Ecco i 5 che gioco ancora oggi, senza aver speso un centesimo.
 tags: [Gaming, Steam, PC, Videogiochi, Gratis]
 cover: https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=1200&q=80&auto=format&fit=crop

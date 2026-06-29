@@ -1,6 +1,6 @@
 ---
 title: Come ottimizzare OBS per streaming a 60fps senza lag
-date: 2026-07-02
+date: 2026-06-29
 excerpt: OBS a 60fps manda il PC in crisi? Ecco tutte le impostazioni da toccare per avere un stream fluido senza perdere FPS nel gioco — testate e funzionanti.
 tags: [Streaming, OBS, PC, Gaming, Tutorial, Ottimizzazione]
 cover: https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80&auto=format&fit=crop

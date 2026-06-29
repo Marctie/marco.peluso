@@ -1,6 +1,6 @@
 ---
 title: Dormire con il caldo: i gadget tech che aiutano davvero
-date: 2026-07-02
+date: 2026-06-29
 excerpt: D'estate dormire diventa una sfida. Ecco i gadget tecnologici che aiutano davvero a dormire meglio quando le temperature salgono — testati e con prezzi reali.
 tags: [Estate, Casa, Consigli, Amazon, Salute, Gadget]
 cover: https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=1200&q=80&auto=format&fit=crop

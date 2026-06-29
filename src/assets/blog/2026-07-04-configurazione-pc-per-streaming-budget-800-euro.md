@@ -1,6 +1,6 @@
 ---
 title: La configurazione PC ideale per streaming a 60fps (budget 800€)
-date: 2026-07-04
+date: 2026-06-29
 excerpt: Vuoi giocare e streamare in contemporanea senza lag? Ecco la build PC che costruirei oggi con 800 euro per fare entrambe le cose bene.
 tags: [Streaming, Gaming, PC, Build, Consigli, Amazon]
 cover: https://images.unsplash.com/photo-1593640408182-31c228786d56?w=1200&q=80&auto=format&fit=crop

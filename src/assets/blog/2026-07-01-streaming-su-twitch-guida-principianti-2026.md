@@ -1,6 +1,6 @@
 ---
 title: Streaming su Twitch nel 2026 — guida completa per principianti assoluti
-date: 2026-07-01
+date: 2026-06-29
 excerpt: Vuoi iniziare a fare streaming su Twitch ma non sai da dove partire? Ti spiego tutto in ordine: account, setup, OBS, go live — e come crescere davvero.
 tags: [Streaming, Twitch, Gaming, OBS, Tutorial, Consigli]
 cover: https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80&auto=format&fit=crop

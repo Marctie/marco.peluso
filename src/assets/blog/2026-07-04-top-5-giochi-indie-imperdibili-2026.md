@@ -1,6 +1,6 @@
 ---
 title: Top 5 giochi indie imperdibili del 2026
-date: 2026-07-04
+date: 2026-06-29
 excerpt: I giochi indie continuano a essere spesso più creativi e coinvolgenti dei titoli AAA. Ecco i 5 che mi hanno colpito di più quest'anno — e che puoi trovare su Steam.
 tags: [Gaming, Videogiochi, Indie, Steam, PC, Consigli]
 cover: https://images.unsplash.com/photo-1535223289429-462ea9301402?w=1200&q=80&auto=format&fit=crop

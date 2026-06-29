@@ -1,6 +1,6 @@
 ---
 title: Powerbank per le vacanze: quale scegliere e cosa controllare nel 2026
-date: 2026-07-03
+date: 2026-06-29
 excerpt: Non tutti i powerbank sono uguali — capienza, velocità di ricarica e dimensioni variano enormemente. Ecco la guida pratica per scegliere quello giusto per le tue vacanze.
 tags: [Smartphone, Accessori, Estate, Viaggi, Consigli, Amazon]
 cover: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&q=80&auto=format&fit=crop
