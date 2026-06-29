@@ -29,7 +29,7 @@ De'Longhi è il marchio di riferimento per i climatizzatori portatili in Italia.
 - Consuma circa 1.100W — tienilo d'occhio in bolletta
 - Il tubo di scarico va installato ogni volta che lo sposti
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=De%27Longhi+Pinguino+PAC+EX100+Silent)
+[Cerca su Amazon](https://www.amazon.it/s?k=De%27Longhi+Pinguino+PAC+EX100+Silent)
 
 ---
 
@@ -49,7 +49,7 @@ Olimpia Splendid è il competitor diretto di De'Longhi. Il Nexya S4 E si connett
 - Prezzo più alto
 - L'app richiede registrazione
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Olimpia+Splendid+Nexya+S4+E)
+[Cerca su Amazon](https://www.amazon.it/s?k=Olimpia+Splendid+Nexya+S4+E)
 
 ---
 
@@ -69,7 +69,7 @@ Midea è un marchio cinese che produce componenti per molti brand europei. Il su
 - Brand meno noto (ma ottima qualità)
 - Assistenza meno capillare in Italia
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Midea+climatizzatore+portatile+9000+BTU)
+[Cerca su Amazon](https://www.amazon.it/s?k=Midea+climatizzatore+portatile+9000+BTU)
 
 ---
 
@@ -89,7 +89,7 @@ Se hai una stanza piccola (fino a 15–18 m²) e vuoi qualcosa di discreto, ques
 - Solo per stanze piccole
 - Niente Wi-Fi
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Electrolux+EXP09HN1WI+climatizzatore+portatile)
+[Cerca su Amazon](https://www.amazon.it/s?k=Electrolux+EXP09HN1WI+climatizzatore+portatile)
 
 ---
 
@@ -109,7 +109,7 @@ Se hai un salone grande o una stanza da 30+ m², hai bisogno di più potenza. L'
 - Grande e pesante
 - Rumoroso ad alta velocità
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Honeywell+HL14CES+climatizzatore+portatile)
+[Cerca su Amazon](https://www.amazon.it/s?k=Honeywell+HL14CES+climatizzatore+portatile)
 
 ---
 

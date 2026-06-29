@@ -37,4 +37,4 @@ Ok, tecnicamente è un'app per imparare le lingue, ma la gamification è talment
 
 Questi cinque coprono stili di gioco molto diversi, quindi c'è qualcosa per tutti. Il mio consiglio è di provarli tutti prima di decidere su quale concentrarsi — la maggior parte si scarica gratis.
 
-Se ne conoscete uno che secondo voi manca in questa lista, scrivetemi — sono sempre alla ricerca di nuovi giochi da scoprire. A domani! 🎮
+Se ne conoscete uno che secondo voi manca in questa lista, scrivetemi — sono sempre alla ricerca di nuovi giochi da scoprire. A domani!

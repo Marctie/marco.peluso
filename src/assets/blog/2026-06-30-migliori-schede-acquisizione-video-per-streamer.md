@@ -38,7 +38,7 @@ L'Elgato HD60 X è la scheda di acquisizione più famosa al mondo — la vedi in
 - Non funziona standalone (serve sempre il PC)
 - Prezzo medio-alto
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Elgato+HD60+X+scheda+acquisizione)
+[Cerca su Amazon](https://www.amazon.it/s?k=Elgato+HD60+X+scheda+acquisizione)
 
 ---
 
@@ -57,7 +57,7 @@ La Live Gamer Portable 2 Plus ha una caratteristica unica: può registrare su sc
 - 4K non supportato
 - Software AVerMedia meno intuitivo di Elgato
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=AVerMedia+Live+Gamer+Portable+2+Plus)
+[Cerca su Amazon](https://www.amazon.it/s?k=AVerMedia+Live+Gamer+Portable+2+Plus)
 
 ---
 
@@ -69,7 +69,7 @@ Per chi fa streaming professionale su setup dual-PC e vuole catturare il massimo
 
 **Per chi è:** streamer già avviati, creatori di contenuti che puntano alla qualità massima
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Elgato+4K+X+scheda+acquisizione)
+[Cerca su Amazon](https://www.amazon.it/s?k=Elgato+4K+X+scheda+acquisizione)
 
 ---
 
@@ -81,7 +81,7 @@ Magewell è usata in ambito broadcast professionale — TV, eventi live, produzi
 
 **Per chi è:** professionisti del settore video, aziende, chi fa live event
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Magewell+USB+Capture+HDMI)
+[Cerca su Amazon](https://www.amazon.it/s?k=Magewell+USB+Capture+HDMI)
 
 ---
 

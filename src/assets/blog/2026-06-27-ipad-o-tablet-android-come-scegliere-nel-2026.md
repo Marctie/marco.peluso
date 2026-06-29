@@ -55,4 +55,4 @@ Se vuoi il massimo per lavorare e hai 600-900€ da spendere: **iPad Air con App
 
 > Il tablet migliore è quello che usi davvero — non quello con le specifiche più alte.
 
-Spero di averti aiutato a chiarire le idee. Se hai domande sul modello specifico da scegliere, scrivimi pure — a domani! 📱
+Spero di averti aiutato a chiarire le idee. Se hai domande sul modello specifico da scegliere, scrivimi pure — a domani!

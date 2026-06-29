@@ -62,4 +62,4 @@ Non serve essere paranoici, ma avere almeno il cloud attivo è il minimo indispe
 
 ---
 
-Ci vuole meno di 5 minuti per configurarlo e poi non devi più pensarci. Fatelo adesso, non domani — e poi godetevi la tranquillità. A domani! 💾
+Ci vuole meno di 5 minuti per configurarlo e poi non devi più pensarci. Fatelo adesso, non domani — e poi godetevi la tranquillità. A domani!

@@ -42,4 +42,4 @@ Il modello più caro della lista, ma anche il più completo. Over-ear, ANC, 49 o
 
 Dipende dall'uso. Se ascolti musica 2-3 ore al giorno in mobilità, questi quattro modelli sono più che sufficienti. Se invece sei un audiofilo, lavori in smart working in ambienti rumorosi tutto il giorno, o vuoi la qualità top, allora ha senso guardare i Sony WH-1000XM6 o le Bose QuietComfort Ultra — ma lì si va oltre i 300€.
 
-Per la maggior parte delle persone, sotto i 100 euro si trovano cuffie eccellenti. Non c'è bisogno di spendere di più. A domani! 🎧
+Per la maggior parte delle persone, sotto i 100 euro si trovano cuffie eccellenti. Non c'è bisogno di spendere di più. A domani!

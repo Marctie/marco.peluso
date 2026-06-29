@@ -17,7 +17,7 @@ Con un notebook moderno hai spesso solo 2 porte USB-C e nient'altro. Un buon hub
 
 **Cosa cercare:** almeno 4 porte USB-A, alimentazione separata se ci colleghi dischi esterni, chip USB 3.0 (non USB 2.0 — fa differenza nella velocità).
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=hub+USB+7+porte+USB+3.0)
+[Cerca su Amazon](https://www.amazon.it/s?k=hub+USB+7+porte+USB+3.0)
 
 ---
 
@@ -27,7 +27,7 @@ Uno dei migliori investimenti per qualunque postazione. Un mousepad grande (80×
 
 **Brands affidabili:** Corsair, SteelSeries, Aukey (rapporto qualità/prezzo ottimo), Speedlink.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=mousepad+XL+gaming+desk)
+[Cerca su Amazon](https://www.amazon.it/s?k=mousepad+XL+gaming+desk)
 
 ---
 
@@ -37,7 +37,7 @@ Se lavori con un notebook, un supporto che lo alza all'altezza degli occhi riduc
 
 **Abbina:** un supporto per laptop + tastiera esterna + mouse = postazione ergonomica completa per meno di 100€ totali.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=supporto+laptop+ergonomico+alluminio)
+[Cerca su Amazon](https://www.amazon.it/s?k=supporto+laptop+ergonomico+alluminio)
 
 ---
 
@@ -47,7 +47,7 @@ Se hai un monitor da gaming a 144 Hz o 4K, assicurati di usare un cavo HDMI 2.1 
 
 **Attenzione:** verifica che anche la GPU e il monitor supportino HDMI 2.1 prima di comprarlo.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=cavo+HDMI+2.1+48Gbps)
+[Cerca su Amazon](https://www.amazon.it/s?k=cavo+HDMI+2.1+48Gbps)
 
 ---
 
@@ -55,7 +55,7 @@ Se hai un monitor da gaming a 144 Hz o 4K, assicurati di usare un cavo HDMI 2.1 
 
 Se scrivi molto, un tappetino in memory foam per i polsi riduce la stanchezza in modo sorprendente. Sembra un accessorio inutile finché non lo provi — poi non torni indietro.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=tappetino+polso+tastiera+memory+foam)
+[Cerca su Amazon](https://www.amazon.it/s?k=tappetino+polso+tastiera+memory+foam)
 
 ---
 
@@ -63,7 +63,7 @@ Se scrivi molto, un tappetino in memory foam per i polsi riduce la stanchezza in
 
 Se non vuoi usare il telefono come webcam (ne ho parlato ieri), una webcam da 30-50€ fa già un salto di qualità enorme rispetto a quella integrata nel laptop. La Logitech C270 (1080p, ~30€) o la Razer Kiyo X (~50€) sono le scelte più sicure.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=webcam+1080p+logitech)
+[Cerca su Amazon](https://www.amazon.it/s?k=webcam+1080p+logitech)
 
 ---
 
@@ -71,7 +71,7 @@ Se non vuoi usare il telefono come webcam (ne ho parlato ieri), una webcam da 30
 
 Le lampade BenQ ScreenBar e Quntis si fissano sul bordo superiore del monitor e illuminano la scrivania senza riflessi sullo schermo. Rendono la postazione più accogliente e riducono l'affaticamento visivo nelle sessioni lunghe.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=lampada+monitor+clip+scrivania)
+[Cerca su Amazon](https://www.amazon.it/s?k=lampada+monitor+clip+scrivania)
 
 ---
 

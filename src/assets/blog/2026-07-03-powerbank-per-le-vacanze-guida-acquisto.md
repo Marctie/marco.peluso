@@ -53,25 +53,25 @@ Nota: i powerbank sopra i 100 Wh (circa 26.800 mAh) non sono consentiti in aereo
 **~35–45€ — 10.000 mAh, USB-C PD 18W**
 Il powerbank più venduto nella categoria. Sottile, leggero, ricarica rapida sia in uscita che in ingresso. Perfetto per giornate fuori casa.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Anker+PowerCore+Slim+10000+PD)
+[Cerca su Amazon](https://www.amazon.it/s?k=Anker+PowerCore+Slim+10000+PD)
 
 ### Baseus Blade 20000 — il più potente e sottile
 **~50–65€ — 20.000 mAh, USB-C PD 65W**
 Forma piatta, 65W di uscita (ricarica anche il laptop), ricarica lo smartphone in meno di 30 minuti. Il migliore per chi viaggia con telefono + notebook.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Baseus+Blade+20000+powerbank)
+[Cerca su Amazon](https://www.amazon.it/s?k=Baseus+Blade+20000+powerbank)
 
 ### Xiaomi 33W Powerbank 10000 — il rapporto qualità/prezzo
 **~25–30€ — 10.000 mAh, 33W**
 Xiaomi fa powerbank eccellenti a prezzi bassissimi. Il 33W carica un iPhone 15 in meno di un'ora — sorprendente per il prezzo.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Xiaomi+33W+powerbank+10000)
+[Cerca su Amazon](https://www.amazon.it/s?k=Xiaomi+33W+powerbank+10000)
 
 ### Anker 737 (PowerCore 24K) — il definitivo per i viaggiatori
 **~90–110€ — 24.000 mAh, 140W, schermo LCD**
 Per chi porta notebook, tablet e smartphone in viaggio. 140W di uscita — ricarica un MacBook Pro dal 0 al 100% in poco più di un'ora. Schermo LCD con percentuale precisa.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Anker+737+PowerCore+powerbank)
+[Cerca su Amazon](https://www.amazon.it/s?k=Anker+737+PowerCore+powerbank)
 
 ---
 

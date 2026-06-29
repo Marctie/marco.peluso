@@ -48,4 +48,4 @@ Quando so che sarò fuori dalla mattina alla sera senza accesso a prese, ho due 
 1. **Modalità aereo + Wi-Fi** quando sono in un posto fisso (un ristorante, un hotel): risparmia tantissima batteria perché smette di cercare la rete cellulare
 2. **Power bank compatto** — non quello da 20.000 mAh, ma uno da 5.000-10.000 mAh che entra in tasca e pesa poco
 
-Con questi accorgimenti riesco a arrivare a sera anche nelle giornate più lunghe. Provateli e ditemelo — a domani! 🔋
+Con questi accorgimenti riesco a arrivare a sera anche nelle giornate più lunghe. Provateli e ditemelo — a domani!

@@ -27,9 +27,9 @@ Non serve comprare nulla di costoso per il primo stream. Il minimo:
 
 | Cosa | Necessario? | Note |
 |---|---|---|
-| PC o laptop | ✅ Sì | Almeno i7/Ryzen 5, 8GB RAM |
-| OBS Studio | ✅ Sì | Gratuito, obsproject.com |
-| Microfono | ✅ Sì | Anche quello del PC va bene per iniziare |
+| PC o laptop | Sì | Almeno i7/Ryzen 5, 8GB RAM |
+| OBS Studio | Sì | Gratuito, obsproject.com |
+| Microfono | Sì | Anche quello del PC va bene per iniziare |
 | Webcam | ❌ No | Puoi iniziare senza, aggiungi dopo |
 | Overlay/grafica | ❌ No | Inizia semplice |
 | Scheda di acquisizione | ❌ No | Solo se usi una console |

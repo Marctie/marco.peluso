@@ -24,7 +24,7 @@ Il gadget più semplice e più efficace. La chiave è il livello di rumore: vuoi
 - Rowenta VU2340 Turbo Silence (il più silenzioso della categoria)
 - Dyson AM07 (se hai budget — silenzioso ma 300€+)
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=ventilatore+silenzioso+notte+camera+da+letto)
+[Cerca su Amazon](https://www.amazon.it/s?k=ventilatore+silenzioso+notte+camera+da+letto)
 
 ---
 
@@ -36,7 +36,7 @@ I cuscini rinfrescanti in gel a cambiamento di fase assorbono il calore del corp
 
 **Alternativa economica:** copricuscino in bambù o cotone percalle a trama larga — rispira molto meglio del classico cotone sintetico e fa già sentire la differenza.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=cuscino+rinfrescante+gel+estate)
+[Cerca su Amazon](https://www.amazon.it/s?k=cuscino+rinfrescante+gel+estate)
 
 ---
 
@@ -48,7 +48,7 @@ Non sai mai quanta umidità c'è in camera da letto — eppure è il fattore pi�
 
 **Bonus:** alcuni modelli si integrano con gli assistenti vocali (Alexa, Google Home) e con i condizionatori smart — automatizzano tutto.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=termometro+igrometro+smart+wifi+govee)
+[Cerca su Amazon](https://www.amazon.it/s?k=termometro+igrometro+smart+wifi+govee)
 
 ---
 
@@ -60,7 +60,7 @@ Se l'umidità è il problema principale (tipico nelle case al piano basso o vici
 
 **Da cercare:** modelli da 10-12 litri/giorno, con spegnimento automatico e serbatoio estraibile.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=deumidificatore+portatile+silenzioso+camera+letto)
+[Cerca su Amazon](https://www.amazon.it/s?k=deumidificatore+portatile+silenzioso+camera+letto)
 
 ---
 
@@ -70,7 +70,7 @@ Le tende oscuranti riducono il calore che entra dalla finestra durante il giorno
 
 **Bonus tech:** esistono tende motorizzate con timer che si aprono e chiudono automaticamente — comodissime se hai finestre alte.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=tende+oscuranti+riduzione+calore+estate)
+[Cerca su Amazon](https://www.amazon.it/s?k=tende+oscuranti+riduzione+calore+estate)
 
 ---
 

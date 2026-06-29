@@ -25,4 +25,4 @@ Questo blog nasce con un'idea semplice ma ambiziosa: **pubblicare un articolo og
 
 Un articolo al giorno è il mio modo per restare curioso e aggiornato, e per darti sempre qualcosa di nuovo e utile da leggere con il caffè della mattina. ☕
 
-Buona lettura — e a domani con il prossimo articolo. 🚀
+Buona lettura — e a domani con il prossimo articolo.

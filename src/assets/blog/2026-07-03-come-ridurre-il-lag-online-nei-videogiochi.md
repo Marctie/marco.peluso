@@ -29,7 +29,7 @@ Il Wi-Fi introduce latenza variabile e packet loss molto più spesso di quanto p
 
 **Se il router è lontano:** un powerline adapter (due adattatori che usano i cavi elettrici di casa) costa 30-50€ ed è molto più stabile del Wi-Fi.
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=powerline+adapter+gigabit)
+[Cerca su Amazon](https://www.amazon.it/s?k=powerline+adapter+gigabit)
 
 ---
 

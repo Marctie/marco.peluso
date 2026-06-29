@@ -19,7 +19,7 @@ Rowenta è il marchio di riferimento per i ventilatori da scrivania silenziosiss
 
 **Ideale per:** scrivania, studio, camera da letto
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Rowenta+VU2340+Turbo+Silence)
+[Cerca su Amazon](https://www.amazon.it/s?k=Rowenta+VU2340+Turbo+Silence)
 
 ---
 
@@ -31,7 +31,7 @@ Piccolo, potente, economico. Il Honeywell HT-900E è un turbo ventilatore da tav
 
 **Ideale per:** camera, ufficio, budget ridotto
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Honeywell+HT-900E+ventilatore)
+[Cerca su Amazon](https://www.amazon.it/s?k=Honeywell+HT-900E+ventilatore)
 
 ---
 
@@ -43,7 +43,7 @@ Se cerchi un ventilatore a piantana per il salotto o la zona notte, il Sichler c
 
 **Ideale per:** salotto, soggiorno, spazi grandi
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=ventilatore+piantana+oscillante+telecomando)
+[Cerca su Amazon](https://www.amazon.it/s?k=ventilatore+piantana+oscillante+telecomando)
 
 ---
 
@@ -55,7 +55,7 @@ Vuoi qualcosa di più moderno? I ventilatori senza pale tipo Dyson sono bellissi
 
 **Ideale per:** chi ha bambini o vuole qualcosa di più estetico
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=ventilatore+senza+pale+economico)
+[Cerca su Amazon](https://www.amazon.it/s?k=ventilatore+senza+pale+economico)
 
 ---
 
@@ -67,7 +67,7 @@ Vornado ha una tecnologia diversa dagli altri: non oscilla ma proietta un vortic
 
 **Ideale per:** stanze medie, circolazione aria costante
 
-👉 [Cerca su Amazon](https://www.amazon.it/s?k=Vornado+533+ventilatore)
+[Cerca su Amazon](https://www.amazon.it/s?k=Vornado+533+ventilatore)
 
 ---
 
