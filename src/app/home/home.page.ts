@@ -15,7 +15,7 @@ interface Project {
   link?: string;
   icon: string;
   gradient: string;
-  status: 'live' | 'soon' | 'client';
+  status: 'live' | 'soon' | 'client' | 'company';
   image?: string;
   imageBg?: string;
 }
@@ -81,25 +81,23 @@ export class HomePage {
     },
     {
       title: 'App Paziente',
-      description: 'App mobile Flutter sviluppata per Pagine Mediche: prenotazioni, referti, storico clinico e comunicazione con i medici, tutto in un\'unica piattaforma per il paziente.',
+      description: 'App mobile Flutter in ambito healthcare: prenotazioni, referti, storico clinico e comunicazione con i medici in un\'unica piattaforma. Sviluppata durante l\'esperienza in Pagine Mediche.',
       tags: ['Flutter', 'Dart', 'Healthcare', 'Mobile'],
-      link: 'https://www.paginemediche.it',
       icon: 'heart-outline',
       gradient: 'linear-gradient(135deg, #0052a3 0%, #00b4d8 100%)',
       image: 'assets/logos/paginemediche-white.svg',
       imageBg: 'linear-gradient(135deg, #002f5f 0%, #004a8f 100%)',
-      status: 'client',
+      status: 'company',
     },
     {
       title: 'App Medico',
-      description: 'App Flutter dedicata ai professionisti sanitari di Pagine Mediche: gestione appuntamenti, comunicazione con i pazienti e monitoraggio dell\'attività clinica.',
+      description: 'App Flutter dedicata ai professionisti sanitari: gestione appuntamenti, comunicazione con i pazienti e monitoraggio dell\'attività clinica. Sviluppata durante l\'esperienza in Pagine Mediche.',
       tags: ['Flutter', 'Dart', 'Healthcare', 'QA'],
-      link: 'https://www.paginemediche.it',
       icon: 'medical-outline',
       gradient: 'linear-gradient(135deg, #005f73 0%, #0a9396 100%)',
       image: 'assets/logos/paginemediche-white.svg',
       imageBg: 'linear-gradient(135deg, #003d4d 0%, #005f73 100%)',
-      status: 'client',
+      status: 'company',
     },
     {
       title: 'My Nails Professional',

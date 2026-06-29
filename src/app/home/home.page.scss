@@ -389,6 +389,12 @@
   border: 1px solid rgba(99, 217, 250, 0.4);
 }
 
+.project-badge.company {
+  background: rgba(0, 0, 0, 0.35);
+  color: #b8a4f8;
+  border: 1px solid rgba(184, 164, 248, 0.4);
+}
+
 // ===== Experience timeline =====
 .timeline {
   display: flex;
