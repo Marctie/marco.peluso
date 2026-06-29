@@ -17,9 +17,11 @@ log.txt
 /.versions
 /coverage
 
+# Blog articles — kept local only, not pushed to GitHub
+src/assets/blog/*.md
+
 # Ionic
 /.ionic
-/www
 /platforms
 /plugins
 
