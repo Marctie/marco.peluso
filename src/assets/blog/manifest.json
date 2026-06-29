@@ -1,13 +1,243 @@
 [
   {
-    "slug": "2026-06-29-come-usare-google-foto-per-non-perdere-piu-un-ricordo",
-    "title": "Come usare Google Foto per non perdere più un ricordo",
-    "date": "2026-06-29",
-    "excerpt": "Google Foto fa il backup automatico di tutto quello che scatti — ma pochi sanno quanto è potente davvero. Ti spiego come configurarlo bene e sfruttarlo al massimo.",
-    "tags": ["Google", "Foto", "Android", "iOS", "Consigli"],
+    "slug": "2026-07-04-come-velocizzare-il-pc-senza-spendere-nulla",
+    "title": "Come velocizzare il PC senza spendere un euro",
+    "date": "2026-07-04",
+    "excerpt": "Il PC è lento? Prima di comprare RAM o SSD nuovo, prova questi interventi gratuiti — spesso bastano per recuperare anni di prestazioni senza toccare l'hardware.",
+    "tags": ["Windows", "PC", "Tutorial", "Ottimizzazione", "Consigli", "Gratis"],
+    "readingMinutes": 5,
+    "cover": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=velocizzare+pc+windows+11+gratis+senza+spendere+tutorial+italiano"
+  },
+  {
+    "slug": "2026-07-04-alert-overlay-twitch-gratis-streamelements",
+    "title": "Alert e overlay Twitch gratis con StreamElements — guida completa",
+    "date": "2026-07-04",
+    "excerpt": "StreamElements è la piattaforma gratuita più usata dagli streamer per alert, overlay, chatbot e punti canale. Ecco come configurarlo da zero in 20 minuti.",
+    "tags": ["Streaming", "Twitch", "StreamElements", "OBS", "Tutorial", "Gratis"],
+    "readingMinutes": 5,
+    "cover": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=streamelements+guida+completa+twitch+alert+overlay+italiano"
+  },
+  {
+    "slug": "2026-07-04-configurazione-pc-per-streaming-budget-800-euro",
+    "title": "La configurazione PC ideale per streaming a 60fps (budget 800€)",
+    "date": "2026-07-04",
+    "excerpt": "Vuoi giocare e streamare in contemporanea senza lag? Ecco la build PC che costruirei oggi con 800 euro per fare entrambe le cose bene.",
+    "tags": ["Streaming", "Gaming", "PC", "Build", "Consigli", "Amazon"],
+    "readingMinutes": 5,
+    "cover": "https://images.unsplash.com/photo-1593640408182-31c228786d56?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=build+pc+gaming+streaming+800+euro+2026+italiano"
+  },
+  {
+    "slug": "2026-07-04-top-5-giochi-indie-imperdibili-2026",
+    "title": "Top 5 giochi indie imperdibili del 2026",
+    "date": "2026-07-04",
+    "excerpt": "I giochi indie continuano a essere spesso più creativi e coinvolgenti dei titoli AAA. Ecco i 5 che mi hanno colpito di più quest'anno — e che puoi trovare su Steam.",
+    "tags": ["Gaming", "Videogiochi", "Indie", "Steam", "PC", "Consigli"],
     "readingMinutes": 4,
-    "cover": "https://images.unsplash.com/photo-1554080353-a576cf803bda?w=1200&q=80&auto=format&fit=crop",
-    "youtube": "https://www.youtube.com/results?search_query=google+foto+guida+completa+tutorial+italiano"
+    "cover": "https://images.unsplash.com/photo-1535223289429-462ea9301402?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+giochi+indie+2026+steam+pc+italiano"
+  },
+  {
+    "slug": "2026-07-03-backup-automatico-windows-senza-programmi",
+    "title": "Come fare backup automatico di Windows senza installare nulla",
+    "date": "2026-07-03",
+    "excerpt": "Windows 11 ha già tutto il necessario per fare backup completi e automatici — senza spendere un euro e senza programmi di terze parti. Ecco come configurarlo in 10 minuti.",
+    "tags": ["Windows", "PC", "Tutorial", "Backup", "Consigli"],
+    "readingMinutes": 5,
+    "cover": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=backup+automatico+windows+11+senza+programmi+tutorial+italiano"
+  },
+  {
+    "slug": "2026-07-03-powerbank-per-le-vacanze-guida-acquisto",
+    "title": "Powerbank per le vacanze: quale scegliere e cosa controllare nel 2026",
+    "date": "2026-07-03",
+    "excerpt": "Non tutti i powerbank sono uguali — capienza, velocità di ricarica e dimensioni variano enormemente. Ecco la guida pratica per scegliere quello giusto per le tue vacanze.",
+    "tags": ["Smartphone", "Accessori", "Estate", "Viaggi", "Consigli", "Amazon"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+powerbank+2026+come+scegliere+vacanze+recensione+italiano"
+  },
+  {
+    "slug": "2026-07-03-come-ridurre-il-lag-online-nei-videogiochi",
+    "title": "Come ridurre il lag online nei videogiochi — guida pratica 2026",
+    "date": "2026-07-03",
+    "excerpt": "Ping alto, pacchetti persi, rubber banding — il lag nei giochi online ha cause ben precise e soluzioni concrete. Ecco cosa fare davvero.",
+    "tags": ["Gaming", "Rete", "PC", "Tutorial", "Consigli", "Ottimizzazione"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=ridurre+lag+ping+giochi+online+tutorial+italiano"
+  },
+  {
+    "slug": "2026-07-03-migliori-programmi-gratuiti-windows-11",
+    "title": "I migliori programmi gratuiti da installare subito su Windows 11",
+    "date": "2026-07-03",
+    "excerpt": "Hai un PC nuovo o hai reinstallato Windows? Ecco la lista definitiva dei programmi gratuiti che installo sempre per prima cosa — e il perché di ognuno.",
+    "tags": ["Windows", "PC", "Software", "Gratis", "Consigli", "Tutorial"],
+    "readingMinutes": 5,
+    "cover": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+programmi+gratuiti+windows+11+da+installare+subito+italiano"
+  },
+  {
+    "slug": "2026-07-02-steam-deck-nel-2026-vale-ancora-la-pena",
+    "title": "Steam Deck nel 2026 — vale ancora la pena comprarlo?",
+    "date": "2026-07-02",
+    "excerpt": "Steam Deck è uscito nel 2022 ma è ancora rilevante nel 2026? Con l'OLED e la concorrenza di ROG Ally e Legion Go, ha ancora senso comprarlo oggi?",
+    "tags": ["Gaming", "Steam", "Steam Deck", "PC", "Consigli", "Videogiochi"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=steam+deck+vale+la+pena+2026+recensione+italiano"
+  },
+  {
+    "slug": "2026-07-02-gadget-tech-per-dormire-bene-con-il-caldo",
+    "title": "Dormire con il caldo: i gadget tech che aiutano davvero",
+    "date": "2026-07-02",
+    "excerpt": "D'estate dormire diventa una sfida. Ecco i gadget tecnologici che aiutano davvero a dormire meglio quando le temperature salgono — testati e con prezzi reali.",
+    "tags": ["Estate", "Casa", "Consigli", "Amazon", "Salute", "Gadget"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=gadget+tech+dormire+con+caldo+estate+consigli+italiano"
+  },
+  {
+    "slug": "2026-07-02-top-5-microfoni-gaming-streaming-sotto-100-euro",
+    "title": "Top 5 microfoni da gaming e streaming sotto i 100€ nel 2026",
+    "date": "2026-07-02",
+    "excerpt": "L'audio è più importante del video su Twitch — e non serve spendere 200 euro per avere un microfono professionale. Ecco i 5 migliori sotto i 100 euro.",
+    "tags": ["Streaming", "Gaming", "Microfono", "Twitch", "Consigli", "Amazon"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+microfoni+gaming+streaming+sotto+100+euro+recensione+italiano"
+  },
+  {
+    "slug": "2026-07-02-come-ottimizzare-obs-per-60fps-senza-lag",
+    "title": "Come ottimizzare OBS per streaming a 60fps senza lag",
+    "date": "2026-07-02",
+    "excerpt": "OBS a 60fps manda il PC in crisi? Ecco tutte le impostazioni da toccare per avere un stream fluido senza perdere FPS nel gioco — testate e funzionanti.",
+    "tags": ["Streaming", "OBS", "PC", "Gaming", "Tutorial", "Ottimizzazione"],
+    "readingMinutes": 5,
+    "cover": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=ottimizzare+obs+60fps+senza+lag+tutorial+italiano"
+  },
+  {
+    "slug": "2026-07-01-migliori-accessori-pc-sotto-50-euro-amazon",
+    "title": "I migliori accessori PC sotto i 50€ su Amazon (che uso ogni giorno)",
+    "date": "2026-07-01",
+    "excerpt": "Non serve spendere centinaia di euro per migliorare la postazione — ecco gli accessori PC più utili sotto i 50 euro che uso davvero tutti i giorni.",
+    "tags": ["PC", "Accessori", "Consigli", "Amazon", "Postazione"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1593640408182-31c228786d56?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+accessori+pc+economici+amazon+postazione+gaming+italiano"
+  },
+  {
+    "slug": "2026-07-01-streaming-su-twitch-guida-principianti-2026",
+    "title": "Streaming su Twitch nel 2026 — guida completa per principianti assoluti",
+    "date": "2026-07-01",
+    "excerpt": "Vuoi iniziare a fare streaming su Twitch ma non sai da dove partire? Ti spiego tutto in ordine: account, setup, OBS, go live — e come crescere davvero.",
+    "tags": ["Streaming", "Twitch", "Gaming", "OBS", "Tutorial", "Consigli"],
+    "readingMinutes": 5,
+    "cover": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=come+iniziare+streaming+twitch+principianti+guida+2026+italiano"
+  },
+  {
+    "slug": "2026-07-01-come-liberare-spazio-su-windows-11",
+    "title": "Come liberare spazio su Windows 11 in 10 minuti (senza programmi extra)",
+    "date": "2026-07-01",
+    "excerpt": "L'SSD è pieno e il PC rallenta? Ecco come liberare gigabyte di spazio su Windows 11 usando solo gli strumenti già integrati nel sistema — nessun programma da installare.",
+    "tags": ["Windows", "PC", "Tutorial", "Consigli", "Ottimizzazione"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=liberare+spazio+windows+11+senza+programmi+tutorial+italiano"
+  },
+  {
+    "slug": "2026-07-01-top-5-giochi-gratis-su-steam",
+    "title": "Top 5 giochi gratis su Steam da scaricare subito",
+    "date": "2026-07-01",
+    "excerpt": "Steam ha centinaia di giochi gratuiti — ma qual è la pena vale davvero? Ecco i 5 che gioco ancora oggi, senza aver speso un centesimo.",
+    "tags": ["Gaming", "Steam", "PC", "Videogiochi", "Gratis"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+giochi+gratis+steam+2026+italiano"
+  },
+  {
+    "slug": "2026-06-30-come-usare-il-telefono-come-webcam-su-pc-gratis",
+    "title": "Come usare il telefono come webcam su PC (gratis, senza app a pagamento)",
+    "date": "2026-06-30",
+    "excerpt": "La tua webcam fa schifo o non ce l'hai? Il telefono che hai in tasca ha una fotocamera migliore — ecco come usarla come webcam su PC in meno di 5 minuti.",
+    "tags": ["Smartphone", "PC", "Streaming", "Tutorial", "Consigli", "Webcam"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=usare+telefono+come+webcam+pc+gratis+tutorial+italiano"
+  },
+  {
+    "slug": "2026-06-30-steam-non-funziona-problemi-e-soluzioni",
+    "title": "Steam non funziona? I 5 problemi più comuni e come risolverli",
+    "date": "2026-06-30",
+    "excerpt": "Steam che non si apre, giochi che crashano, aggiornamenti bloccati — ecco le soluzioni che funzionano davvero per i problemi più frequenti del client Valve.",
+    "tags": ["Gaming", "Steam", "PC", "Troubleshooting", "Windows"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=steam+non+funziona+problemi+soluzioni+italiano"
+  },
+  {
+    "slug": "2026-06-30-migliori-schede-acquisizione-video-per-streamer",
+    "title": "Le migliori schede di acquisizione video per streamer nel 2026",
+    "date": "2026-06-30",
+    "excerpt": "Vuoi streamare console su PC, registrare gameplay in qualità professionale o fare dual-PC streaming? Ecco le schede di acquisizione che vale la pena comprare.",
+    "tags": ["Streaming", "Gaming", "Scheda di acquisizione", "Twitch", "YouTube", "Consigli"],
+    "readingMinutes": 5,
+    "cover": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+schede+acquisizione+video+streamer+2026+recensione+italiano"
+  },
+  {
+    "slug": "2026-06-30-top-5-ventilatori-economici-estate-2026",
+    "title": "Top 5 ventilatori economici per l'estate 2026 (sotto i 60€)",
+    "date": "2026-06-30",
+    "excerpt": "Non vuoi spendere 400 euro per un climatizzatore? Un buon ventilatore fa la differenza — ecco i 5 migliori sotto i 60 euro per sopravvivere all'estate.",
+    "tags": ["Estate", "Casa", "Ventilatore", "Consigli", "Amazon"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+ventilatori+economici+estate+2026+recensione+italiano"
+  },
+  {
+    "slug": "2026-06-29-problemi-frequenti-windows-11-e-come-risolverli",
+    "title": "I 7 problemi più frequenti di Windows 11 e come risolverli",
+    "date": "2026-06-29",
+    "excerpt": "Windows 11 è stabile ma ha i suoi grattacapi ricorrenti. Ecco i 7 problemi che vedo più spesso e la soluzione rapida per ciascuno.",
+    "tags": ["Windows", "PC", "Troubleshooting", "Tutorial", "Consigli"],
+    "readingMinutes": 5,
+    "cover": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=problemi+windows+11+soluzioni+tutorial+italiano"
+  },
+  {
+    "slug": "2026-06-29-obs-studio-guida-per-iniziare-a-fare-streaming",
+    "title": "OBS Studio — guida completa per iniziare a fare streaming da zero",
+    "date": "2026-06-29",
+    "excerpt": "OBS è gratis, potente e usato da milioni di streamer. Ma la prima volta fa paura — ecco come configurarlo in 20 minuti e andare live su Twitch o YouTube.",
+    "tags": ["Streaming", "OBS", "Twitch", "YouTube", "Gaming", "PC"],
+    "readingMinutes": 5,
+    "cover": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=obs+studio+guida+configurazione+streaming+twitch+youtube+italiano+2026"
+  },
+  {
+    "slug": "2026-06-29-top-5-climatizzatori-portatili-economici-2026",
+    "title": "Top 5 climatizzatori portatili economici del 2026 (sotto i 400€)",
+    "date": "2026-06-29",
+    "excerpt": "Senza unità esterna, senza installazione — ecco i 5 climatizzatori portatili che mi hanno convinto di più quest'estate, per ogni budget.",
+    "tags": ["Estate", "Casa", "Climatizzatore", "Consigli", "Amazon"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=migliori+climatizzatori+portatili+economici+2026+recensione+italiano"
+  },
+  {
+    "slug": "2026-06-29-5-trucchi-per-la-schermata-home-di-android-che-cambiano-la-vita",
+    "title": "5 trucchi per la schermata home di Android che cambiano la vita",
+    "date": "2026-06-29",
+    "excerpt": "La schermata home di Android è molto più personalizzabile di quanto pensi — ecco 5 modifiche rapide che la rendono più utile e bella da vedere.",
+    "tags": ["Android", "Consigli", "Personalizzazione", "Smartphone"],
+    "readingMinutes": 4,
+    "cover": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=personalizzare+schermata+home+android+trucchi+widget+tutorial+italiano"
   },
   {
     "slug": "2026-06-29-chromecast-vs-fire-stick-vs-apple-tv-quale-scegliere",
@@ -20,14 +250,14 @@
     "youtube": "https://www.youtube.com/results?search_query=chromecast+vs+fire+stick+vs+apple+tv+confronto+italiano+2026"
   },
   {
-    "slug": "2026-06-29-5-trucchi-per-la-schermata-home-di-android-che-cambiano-la-vita",
-    "title": "5 trucchi per la schermata home di Android che cambiano la vita",
+    "slug": "2026-06-29-come-usare-google-foto-per-non-perdere-piu-un-ricordo",
+    "title": "Come usare Google Foto per non perdere più un ricordo",
     "date": "2026-06-29",
-    "excerpt": "La schermata home di Android è molto più personalizzabile di quanto pensi — ecco 5 modifiche rapide che la rendono più utile e bella da vedere.",
-    "tags": ["Android", "Consigli", "Personalizzazione", "Smartphone"],
+    "excerpt": "Google Foto fa il backup automatico di tutto quello che scatti — ma pochi sanno quanto è potente davvero. Ti spiego come configurarlo bene e sfruttarlo al massimo.",
+    "tags": ["Google", "Foto", "Android", "iOS", "Consigli"],
     "readingMinutes": 4,
-    "cover": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1200&q=80&auto=format&fit=crop",
-    "youtube": "https://www.youtube.com/results?search_query=personalizzare+schermata+home+android+trucchi+widget+tutorial+italiano"
+    "cover": "https://images.unsplash.com/photo-1554080353-a576cf803bda?w=1200&q=80&auto=format&fit=crop",
+    "youtube": "https://www.youtube.com/results?search_query=google+foto+guida+completa+tutorial+italiano"
   },
   {
     "slug": "2026-06-28-come-inizializzare-un-tablet-android-per-la-prima-volta",
