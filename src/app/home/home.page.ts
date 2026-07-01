@@ -27,11 +27,10 @@ export class HomePage {
     { name: 'TypeScript / JavaScript', level: 90 },
     { name: 'Angular & Ionic', level: 88 },
     { name: 'Node.js', level: 80 },
-    { name: 'UI / UX Design', level: 75 },
     { name: 'Cloud & DevOps', level: 70 },
   ];
 
-  readonly stack = ['Angular', 'Ionic', 'TypeScript', 'Node.js', 'Capacitor', 'Git', 'Figma', 'Docker'];
+  readonly stack = ['Angular', 'Ionic', 'TypeScript', 'Node.js', 'Capacitor', 'Git', 'Docker'];
 
   readonly projects: Project[] = [
     {
