@@ -4,11 +4,12 @@
       <span class="brand-dot"></span>marco<span class="gradient-text">.dev</span>
     </ion-title>
     <ion-buttons slot="end" class="nav-links">
-      <ion-button href="#about">About</ion-button>
-      <ion-button href="#skills">Skills</ion-button>
-      <ion-button href="#projects">Progetti</ion-button>
+      <ion-button (click)="scrollTo('about')">About</ion-button>
+      <ion-button (click)="scrollTo('experience')">Esperienza</ion-button>
+      <ion-button (click)="scrollTo('skills')">Skills</ion-button>
+      <ion-button (click)="scrollTo('projects')">Progetti</ion-button>
       <ion-button [routerLink]="['/blog']">Blog</ion-button>
-      <ion-button class="cta" href="#contact">Contatti</ion-button>
+      <ion-button class="cta" (click)="scrollTo('contact')">Contatti</ion-button>
     </ion-buttons>
   </ion-toolbar>
 </ion-header>
@@ -32,7 +33,7 @@
         <ion-button class="btn-primary" [routerLink]="['/blog']">
           Leggi il blog <ion-icon name="arrow-forward-outline" slot="end"></ion-icon>
         </ion-button>
-        <ion-button class="btn-ghost" fill="outline" href="#about">Scopri di più</ion-button>
+        <ion-button class="btn-ghost" fill="outline" (click)="scrollTo('about')">Scopri di più</ion-button>
       </div>
       <div class="hero-socials">
         <a href="https://github.com/" target="_blank" rel="noopener" aria-label="GitHub"><ion-icon name="logo-github"></ion-icon></a>
@@ -48,15 +49,50 @@
     <span class="section-eyebrow">Chi sono</span>
     <h2 class="section-title">Un po' di me.</h2>
     <div class="about-grid">
-      <p class="about-text">
-        Sono uno sviluppatore che ama dare forma alle idee. Mi muovo a mio agio tra
-        frontend, backend e mobile. Quando non scrivo codice, esploro nuove tecnologie e ne scrivo qui sul blog —
-        <strong>un articolo nuovo ogni giorno</strong>.
-      </p>
+      <div>
+        <p class="about-text">
+          Sono Marco, 26 anni, sviluppatore mobile e web con un percorso che va dall'IT
+          management al QA fino allo sviluppo con <strong>Flutter</strong> e <strong>Angular</strong>.
+          Ho una laurea in <strong>Ingegneria Informatica (L-08)</strong> e sto completando
+          la magistrale in <strong>Sicurezza Informatica (LM-66)</strong>.
+        </p>
+        <p class="about-text" style="margin-top: 16px">
+          Curo sempre la qualità del codice — che si tratti di un'app mobile,
+          una piattaforma web o un ciclo di testing. Quando non scrivo codice, esploro nuove
+          tecnologie e <strong>ne scrivo ogni giorno su questo blog</strong>.
+        </p>
+      </div>
       <div class="about-stats">
-        <div class="stat"><span class="stat-num gradient-text">5+</span><span class="stat-label">Anni di passione</span></div>
-        <div class="stat"><span class="stat-num gradient-text">∞</span><span class="stat-label">Voglia di imparare</span></div>
-        <div class="stat"><span class="stat-num gradient-text">365</span><span class="stat-label">Articoli/anno</span></div>
+        <div class="stat"><span class="stat-num gradient-text">6+</span><span class="stat-label">Anni nel settore</span></div>
+        <div class="stat"><span class="stat-num gradient-text">4</span><span class="stat-label">Esperienze lavorative</span></div>
+        <div class="stat"><span class="stat-num gradient-text">2</span><span class="stat-label">Lauree</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- EXPERIENCE -->
+  <section id="experience" class="section">
+    <span class="section-eyebrow">Carriera</span>
+    <h2 class="section-title">Esperienza lavorativa.</h2>
+    <div class="timeline">
+      <div class="timeline-item" *ngFor="let e of experiences">
+        <div class="timeline-dot" [class.current]="e.current"></div>
+        <div class="timeline-content card">
+          <div class="timeline-header">
+            <div>
+              <span class="timeline-period">{{ e.period }}</span>
+              <h3 class="timeline-company">{{ e.company }}</h3>
+            </div>
+            <div class="timeline-right">
+              <span class="timeline-badge" *ngIf="e.current">Attuale</span>
+              <span class="timeline-role">{{ e.role }}</span>
+              <span class="timeline-location"><ion-icon name="location-outline"></ion-icon> {{ e.location }}</span>
+            </div>
+          </div>
+          <ul class="timeline-points">
+            <li *ngFor="let h of e.highlights">{{ h }}</li>
+          </ul>
+        </div>
       </div>
     </div>
   </section>
@@ -83,11 +119,27 @@
     <span class="section-eyebrow">Portfolio</span>
     <h2 class="section-title">Progetti selezionati.</h2>
     <div class="projects-grid">
-      <article class="card project" *ngFor="let p of projects">
-        <h3 class="project-title">{{ p.title }}</h3>
-        <p class="project-desc">{{ p.description }}</p>
-        <div class="project-tags">
-          <span class="chip small" *ngFor="let t of p.tags">{{ t }}</span>
+      <article class="card project-card" *ngFor="let p of projects">
+        <div class="project-cover" [style.background]="p.image ? p.imageBg : p.gradient">
+          <img *ngIf="p.image" [src]="p.image" [alt]="p.title + ' logo'" class="project-logo-img">
+          <ion-icon *ngIf="!p.image" [name]="p.icon" class="project-icon"></ion-icon>
+          <span class="project-badge soon" *ngIf="p.status === 'soon'">In arrivo</span>
+          <span class="project-badge live" *ngIf="p.status === 'live'">Live</span>
+          <span class="project-badge client" *ngIf="p.status === 'client'">Cliente</span>
+          <span class="project-badge company" *ngIf="p.status === 'company'">Aziendale</span>
+        </div>
+        <div class="project-body">
+          <h3 class="project-title">{{ p.title }}</h3>
+          <p class="project-desc">{{ p.description }}</p>
+          <div class="project-tags">
+            <span class="chip small" *ngFor="let t of p.tags">{{ t }}</span>
+          </div>
+          <a *ngIf="p.link" [href]="p.link" target="_blank" rel="noopener" class="project-link">
+            Visita il progetto <ion-icon name="arrow-forward-outline"></ion-icon>
+          </a>
+          <span *ngIf="!p.link" class="project-link coming-soon">
+            <ion-icon name="time-outline"></ion-icon> Prossimamente
+          </span>
         </div>
       </article>
     </div>
@@ -98,7 +150,7 @@
     <span class="section-eyebrow">Dal blog</span>
     <h2 class="section-title">Ultimi articoli.</h2>
     <div class="projects-grid">
-      <article class="card project blog-teaser" *ngFor="let post of latestPosts" [routerLink]="['/blog', post.slug]">
+      <article class="card blog-teaser" *ngFor="let post of latestPosts" [routerLink]="['/blog', post.slug]">
         <span class="post-date">{{ post.date | date: 'd MMM yyyy' }}</span>
         <h3 class="project-title">{{ post.title }}</h3>
         <p class="project-desc">{{ post.excerpt }}</p>
